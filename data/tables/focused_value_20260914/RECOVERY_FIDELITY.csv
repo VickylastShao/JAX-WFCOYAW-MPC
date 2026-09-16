@@ -1,0 +1,5 @@
+root,scenario,power_relative_error,yaw_error_deg,gross_relative_error,net_relative_error,max_state_relative_error,gpu_seconds
+SC-74121202,T1,0.0,0.0,0.0,0.0,0.0,48.465285
+SC-74121202,T2,0.0,0.0,0.0,0.0,0.0,48.305207
+SC-74121203,T1,0.0,0.0,0.0,0.0,0.0,48.114406
+SC-74121203,T2,0.0,0.0,0.0,0.0,0.0,48.378932

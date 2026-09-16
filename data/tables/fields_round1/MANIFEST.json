@@ -1,0 +1,51 @@
+{
+  "sources": {
+    "src/jax_mole_compact_sac_benchmark.py": "b98e0601bf202f8f46641788f123251443f901b9b02c88072bf462657012cb77",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/EXIT.json": "0354cb047d7da7da63f90756281b3caaa3b2c08afde47fca5d3918e8a883d670",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/RESULT.json": "891a74727e713d30ec2bb80c3e2f4bfd3024ec0bf3b4d44308d4405960c615c8",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/PROTOCOL.json": "94de8188bc09516a74e1bca481ebcae2bbac798dd364c30f36bf5ae153b04bba",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/GPU_ADJUDICATION.json": "8bd5c9c69f3d3319179fd704a15dbe52fdc54bebae886ee650f57f59751cf8b1",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/STATE_REPLAY_CHECKS.json": "19c2fdcf02a0559c100474820c62a87d208ef4a7e8f462be1ce58aa66f98d0c4",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/FIELD_0000.npz": "629d211f3487d8ed2f07c27d1e3d3be11d6d380f209fe07ff3e64dcc9a0bca86",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/FIELD_0360.npz": "b6bdf5033705980454ea2d14975c52a8f74775b664a7c54a3db12e90a5dcdac7",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/FIELD_0540.npz": "72d6854b3beb742306b7a62c2afebf4ad032939d909275bc0e5dddb74b22b8b5",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/FIELD_1140.npz": "3807ecee36d2ee31aadf4826a00f3e3b8eca0ed7c6511cf06d23b4ac98b5e1a5",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/FIELD_1320.npz": "b98dcdd128cc39dde0d648a970e54bb3d3109b9846f449033840f6b12fc84f6b",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/FIELD_1800.npz": "cfaf882348014052e2739e5c225d4752befeff63bac2139aa153041b7edf9b1f",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/FIELD_2280.npz": "ed270c3b138960c35abc46094f2bdb570a93440689cb255d10b80fcd5a9921d7",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/PROBE_SERIES.json": "6a885199c3d0394faea3614c26a485c17614b054a5241420e7ecebac5f71bc47",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/TRACES.npz": "18313566edc746024c5f77cb4bbbf5c8357610541a40488ff3c4d77b6ff037b5",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/EXIT.json": "f5f735b747304313624450f477df6f2c8d9f03e474e82c10e51c6aebdcae0bd8",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/RESULT.json": "5ded8b7d3eb0a14856a95696ea118e121f294f55e3a0b598fd7528f74aa3fd69",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/PROTOCOL.json": "4c01f4df7909973bd62da05808ca65603fd173062842915618f81af0736c8947",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/GPU_ADJUDICATION.json": "8bd5c9c69f3d3319179fd704a15dbe52fdc54bebae886ee650f57f59751cf8b1",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/STATE_REPLAY_CHECKS.json": "167e515cff60124078b51ddd8acc6b9401184e7cff6485fbd04532424c9a4cad",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/FIELD_0000.npz": "f0cec7746147766a0facfaff341cd6dc814f6df29c5a0c8d884f12cc925225a2",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/FIELD_0360.npz": "e7c74241a2547246bc5f0d767a8ed56398ef718f6b4eb00c31f0c90deeea6546",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/FIELD_0540.npz": "be4cec2c6c2e532a6eb509eed45cc7dd1794e7166a4d40453dc0d57ed16da049",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/FIELD_1140.npz": "477d451f9a166a01f321ba5f98204d07a95b7455fbb91e958c9c9d618d004e18",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/FIELD_1320.npz": "b6fc7973b09b6535b70fcab68c7cdecc4873ef12742b22f6f950cfd865529a9e",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/FIELD_1800.npz": "7e46531aee27894d4e7d0ff11fef285cf6dbbff48e3bb597c24dae588afb1e0c",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/FIELD_2280.npz": "19f032fa9a0ea48b5bc9c011f85d063e90b05129998bb689786a70e2998db6f9",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/PROBE_SERIES.json": "56c6f0b8f4245f331f3158b1a2e530c2b49be7221abff4a4b7f46dadc91f2dd3",
+    "audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/TRACES.npz": "d0a401b3a07a4201afa221167509c03a6681b67b657d00a1f4197a59377bd929"
+  },
+  "source_directory": "audit/executions/re_strengthening_20260912/retrieved/fields_1612",
+  "constants_from_frozen_solver": {
+    "density": 1.2,
+    "thrust_coefficient": 0.75,
+    "induction_factor": 0.17095
+  },
+  "rotor_diameter_m": 126.0,
+  "field_files": 14,
+  "rotor_rows": 2070,
+  "power_checks": 456,
+  "evidence_class": "one exposed root, paired nominal-model prescribed-command replay",
+  "independent_confirmation": false,
+  "independent_plant_validation": false,
+  "output_sha256": {
+    "rotor_inflow.csv": "877630f60265fc4379754c517d1dd1e26c9bc84c350c82c31e1fd80650c9ef09",
+    "filtered_speed_power_checks.csv": "267c2d24c8f5cb08f60cd30f816538f7058dd923e678e1bc0a8205153ecea12b",
+    "field_metrics.csv": "7119581c68a942deebd4947d6b20985e48584eec5009e8507695eabdde2ce831"
+  }
+}

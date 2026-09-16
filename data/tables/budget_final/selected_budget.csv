@@ -1,0 +1,4 @@
+segments,target_angles,selected_updates,deadline_seconds,maximum_selected_seconds,selection_basis
+1,9,4,180,159.96270214021206,largest jointly qualified I; every larger candidate rejected by independent timing; no energy used
+2,18,4,180,160.197341109626,largest jointly qualified I; every larger candidate rejected by independent timing; no energy used
+3,27,4,180,160.4332266766578,largest jointly qualified I; every larger candidate rejected by independent timing; no energy used

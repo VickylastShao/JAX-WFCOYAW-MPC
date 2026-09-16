@@ -1,0 +1,22 @@
+{
+  "status": "completed",
+  "arm": "external B1P*(F)",
+  "cell": "OC-73090801__T2",
+  "forecast_mode": "causal",
+  "forecast_method": "F2",
+  "generation_kwh": 6927.584517284723,
+  "yaw_motion_kwh": 4.687500397364299,
+  "net_kwh": 6922.897016887358,
+  "noyaw_kwh": 6983.739188203125,
+  "gain_percent": -0.8711976446448721,
+  "yaw_travel_deg": 168.75001430511475,
+  "decisions": 9,
+  "fallback_count": 0,
+  "maximum_online_seconds": 0.9099004631862044,
+  "physical_checks_pass": true,
+  "matmul_precision": "highest",
+  "evidence_class": "external_comparator_on_exposed_root_with_shared_inlet_forecast",
+  "independent_confirmation": false,
+  "state_information": "Comparator receives macro forecast and yaw state; no full LES state",
+  "protocol_sha256": "786da68abffc5ad2cab40c1540e9efe678feab3a68fd6a7db87d235f35f30444"
+}

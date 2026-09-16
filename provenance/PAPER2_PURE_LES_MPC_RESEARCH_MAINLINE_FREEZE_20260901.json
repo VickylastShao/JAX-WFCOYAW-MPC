@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "purpose": "paper2_pure_les_mpc_research_mainline_freeze",
+  "status": "controlling",
+  "effective_date": "2026-09-01 Asia/Shanghai",
+  "proposed_controller": "pure_les_mpc",
+  "core_thesis": "A GPU-native differentiable high-fidelity LES can directly solve receding-horizon wind-farm yaw trajectories within the online budget. With temporal, terminal, movement and execution constraints defined without lookup-controller participation, pure LES-MPC must deliver statistically reliable net-energy improvement over both no-yaw control and the strong causal B1P*(F) external baseline under matched dynamic-inlet conditions.",
+  "b1pstar_role": "external_comparator_only",
+  "pure_controller_contract": {
+    "allowed_runtime_inputs": [
+      "synchronized LES-compatible state",
+      "timestamped causal-F inflow forecast",
+      "current actuator state and active target",
+      "previous valid pure-MPC solution for shifted warm start"
+    ],
+    "forbidden_b1pstar_roles": [
+      "objective reference",
+      "regularization reference",
+      "optimizer anchor or warm start",
+      "terminal target or terminal value reference",
+      "candidate selection reference",
+      "supervisor acceptance reference",
+      "fallback controller",
+      "command formation input"
+    ],
+    "allowed_failure_policies": [
+      "hold_last_valid_mpc",
+      "hold_active_target",
+      "rate_limited_neutral"
+    ],
+    "physical_constraints_remain_absolute": true,
+    "failed_or_fallback_decisions_remain_in_denominator": true
+  },
+  "external_comparators": [
+    "no_yaw",
+    "strong_causal_B1Pstar_F"
+  ],
+  "minimum_control_value_claim": {
+    "required_contrasts": [
+      "pure_LES_MPC_minus_no_yaw",
+      "pure_LES_MPC_minus_B1Pstar_F"
+    ],
+    "required_engineering_endpoints": [
+      "synchronized online controller time",
+      "deadline misses",
+      "yaw range and rate violations",
+      "yaw travel and reversal burden",
+      "numerical finiteness",
+      "fallback incidence"
+    ],
+    "held_out_confirmation_required": true
+  },
+  "historical_evidence_policy": {
+    "preserve_all_existing_hybrid_results": true,
+    "hybrid_branches": [
+      "B1Pstar-anchored optimization",
+      "B1Pstar terminal return",
+      "B1Pstar-relative residual objective",
+      "dual-reference B1Pstar movement guard",
+      "B1Pstar runtime fallback"
+    ],
+    "allowed_use": "historical outcome-exposed method-development and mechanism evidence only",
+    "forbidden_use": "headline evidence for pure LES-MPC replacement of lookup control"
+  },
+  "mandatory_preexperiment_gate": {
+    "validator": "src/pure_les_mpc_mainline_gate.py",
+    "record_purpose": "paper2_pure_les_mpc_preexperiment_alignment",
+    "record_location": "audit/",
+    "required_before_every_experiment": true,
+    "outcomes_present_must_be_false": true,
+    "required_fields": [
+      "experiment_id",
+      "experiment_role",
+      "research_mainline_path",
+      "research_mainline_sha256",
+      "core_thesis_clause_tested",
+      "evidence_class",
+      "expected_pass_evidence",
+      "expected_fail_evidence",
+      "state_scope",
+      "forecast_scope",
+      "controller_scope",
+      "source_scope",
+      "input_scope",
+      "resource_scope",
+      "b1pstar_runtime_role",
+      "all explicit B1Pstar dependency flags",
+      "fallback_policy"
+    ],
+    "launch_rule": "No process, container, GPU job or scored local experiment may start unless the machine-readable adjudication status is pass and authorized_to_launch is true.",
+    "misalignment_rule": "Any missing field, mainline hash mismatch, online B1Pstar dependency, unapproved fallback or unstated pass/fail evidence is fail_closed.",
+    "off_mainline_rule": "An experiment that does not pass this gate requires a new explicit user-approved mainline amendment; relabelling it after outcomes are visible is forbidden."
+  },
+  "supersession": {
+    "supersedes_as_proposed_controller": [
+      "audit/PAPER2_MAINLINE_AND_PREPILOT_RELATION_REVIEW_20260826.md",
+      "audit/PAPER2_ENGINEERING_CONSTRAINED_MPC_V2_PROTOCOL_20260831.md",
+      "audit/PAPER2_MPC_V22_BASELINE_RELATIVE_DEVELOPMENT_PROTOCOL_20260831.md",
+      "audit/PAPER2_MPC_V23_LONG_RECOVERY_DEVELOPMENT_PROTOCOL_20260831.md",
+      "audit/PAPER2_MPC_V24_ROBUST_MARGIN_DEVELOPMENT_PROTOCOL_20260901.md",
+      "audit/PAPER2_MPC_V25_OPTIMIZER_DEPTH_DEVELOPMENT_PROTOCOL_20260901.md",
+      "audit/PAPER2_MPC_V26_STEP_SCALE_DEVELOPMENT_PROTOCOL_20260901.md"
+    ],
+    "does_not_delete_or_relabel_prior_evidence": true
+  },
+  "authorization": {
+    "mainline_definition_authorized": true,
+    "new_experiment_authorized_by_this_freeze_alone": false,
+    "formal_m1_m8_authorized": false,
+    "n_final_authorized": false
+  },
+  "strongest_objection": "Removing the strong causal lookup anchor may reduce or reverse the previously observed energy effect. That risk is part of the scientific question and must be tested; it cannot be concealed by continuing a hybrid controller under a pure-MPC label.",
+  "claim_boundary": "Controlling project research mainline and pre-experiment governance only. This freeze contains no new controller implementation, energy result, timing result, confirmation result or field-deployment evidence."
+}

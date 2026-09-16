@@ -1,0 +1,218 @@
+{
+  "status": "bounded_round_complete_with_scientific_stop",
+  "completed_utc": "2026-09-15T11:17:57.734290+00:00",
+  "plan": "audit/plans/re_mainline_accumulation_20260915/PLAN.md",
+  "mainline_sha256": "3244468589a890f32d93e01142af8e7e7b8f4ebd450b960ee67254242d81161b",
+  "candidate": {
+    "id": "OWN-TAIL-200-v1",
+    "cpu_algebra": {
+      "status": "pass",
+      "random_cases": 2048,
+      "max_total_variation_deg": 89.9999999996877,
+      "max_scalar_reference_error_deg": 2.3547228593656655e-06,
+      "tail_immutable": true,
+      "final_issue_hold": true,
+      "physical_LES_qualification": false,
+      "gradient_qualification": false,
+      "online_timing_qualification": false,
+      "control_value_scored": false,
+      "claim": "projection/continuation algebra and source wiring only"
+    },
+    "LES_qualification": "not_launched",
+    "closed_loop_energy": "not_scored",
+    "protocol": "audit/executions/re_mainline_accumulation_20260915/MINIMAL_COMPARISON.json"
+  },
+  "dynamic_comparator": {
+    "scientific_decision": "stop_no_isolated_recovery_basis",
+    "single_wake_gate_pass": false,
+    "calibration_allowed": false,
+    "parameter_grid_launched": false,
+    "closed_loop_launched": false,
+    "metrics_file": "audit/executions/re_mainline_accumulation_20260915/jobs/B3_BASELINE_SCORE/RESULT.json"
+  },
+  "compute": {
+    "status": "all_attempts_terminal",
+    "jobs": [
+      {
+        "stage": "A1_CONTRACT",
+        "exit_code": 1,
+        "elapsed_s": 0.16440597000473645,
+        "started_utc": "2026-09-15T10:42:06.520250+00:00",
+        "ended_utc": "2026-09-15T10:42:06.684655+00:00",
+        "gate_pass": true,
+        "child_command_present": false
+      },
+      {
+        "stage": "A1_CONTRACT_RETRY1",
+        "exit_code": 1,
+        "elapsed_s": 0.21446914800617378,
+        "started_utc": "2026-09-15T10:43:34.806624+00:00",
+        "ended_utc": "2026-09-15T10:43:35.021092+00:00",
+        "gate_pass": true,
+        "child_command_present": false
+      },
+      {
+        "stage": "A1_CONTRACT_RETRY2",
+        "exit_code": 0,
+        "elapsed_s": 0.2649534619995393,
+        "started_utc": "2026-09-15T10:44:58.686605+00:00",
+        "ended_utc": "2026-09-15T10:44:58.951558+00:00",
+        "gate_pass": true,
+        "child_command_present": false
+      },
+      {
+        "stage": "B0_OBSERVER_PREP",
+        "exit_code": 1,
+        "elapsed_s": 0.21429597098904196,
+        "started_utc": "2026-09-15T10:42:16.520758+00:00",
+        "ended_utc": "2026-09-15T10:42:16.735049+00:00",
+        "gate_pass": true,
+        "child_command_present": false
+      },
+      {
+        "stage": "B0_OBSERVER_PREP_RETRY1",
+        "exit_code": 0,
+        "elapsed_s": 0.46502988699648995,
+        "started_utc": "2026-09-15T10:43:49.815062+00:00",
+        "ended_utc": "2026-09-15T10:43:50.280091+00:00",
+        "gate_pass": true,
+        "child_command_present": false
+      },
+      {
+        "stage": "B1_INTERFACE",
+        "exit_code": 1,
+        "elapsed_s": 4.471304475009674,
+        "started_utc": "2026-09-15T10:49:04.449346+00:00",
+        "ended_utc": "2026-09-15T10:49:08.920652+00:00",
+        "gate_pass": true,
+        "child_command_present": false
+      },
+      {
+        "stage": "B1_INTERFACE_RETRY1",
+        "exit_code": 1,
+        "elapsed_s": 6.676029292008025,
+        "started_utc": "2026-09-15T10:50:10.781839+00:00",
+        "ended_utc": "2026-09-15T10:50:17.457869+00:00",
+        "gate_pass": true,
+        "child_command_present": false
+      },
+      {
+        "stage": "B1_INTERFACE_RETRY2",
+        "exit_code": 1,
+        "elapsed_s": 9.094853558010072,
+        "started_utc": "2026-09-15T10:51:00.141969+00:00",
+        "ended_utc": "2026-09-15T10:51:09.236834+00:00",
+        "gate_pass": true,
+        "child_command_present": false
+      },
+      {
+        "stage": "B1_INTERFACE_RETRY3",
+        "exit_code": 0,
+        "elapsed_s": 7.477606822998496,
+        "started_utc": "2026-09-15T10:51:56.209132+00:00",
+        "ended_utc": "2026-09-15T10:52:03.686743+00:00",
+        "gate_pass": true,
+        "child_command_present": false
+      },
+      {
+        "stage": "B2_T1",
+        "exit_code": 0,
+        "elapsed_s": 10.835552673001075,
+        "started_utc": "2026-09-15T10:54:52.613937+00:00",
+        "ended_utc": "2026-09-15T10:55:03.449490+00:00",
+        "gate_pass": true,
+        "child_command_present": false
+      },
+      {
+        "stage": "B2_T2",
+        "exit_code": 0,
+        "elapsed_s": 10.68775265700242,
+        "started_utc": "2026-09-15T10:54:52.632169+00:00",
+        "ended_utc": "2026-09-15T10:55:03.319919+00:00",
+        "gate_pass": true,
+        "child_command_present": false
+      },
+      {
+        "stage": "B3_BASELINE_SCORE",
+        "exit_code": 0,
+        "elapsed_s": 0.1141264229954686,
+        "started_utc": "2026-09-15T10:55:53.225522+00:00",
+        "ended_utc": "2026-09-15T10:55:53.339648+00:00",
+        "gate_pass": true,
+        "child_command_present": false
+      },
+      {
+        "stage": "B4_AUDIT",
+        "exit_code": 0,
+        "elapsed_s": 0.06394450399966445,
+        "started_utc": "2026-09-15T10:57:17.720972+00:00",
+        "ended_utc": "2026-09-15T10:57:17.784916+00:00",
+        "gate_pass": true,
+        "child_command_present": false
+      },
+      {
+        "stage": "B5_PORTABLE_SCORE",
+        "exit_code": 0,
+        "elapsed_s": 0.26427594799315557,
+        "started_utc": "2026-09-15T11:05:25.429897+00:00",
+        "ended_utc": "2026-09-15T11:05:25.694175+00:00",
+        "gate_pass": true,
+        "child_command_present": false
+      }
+    ],
+    "attempts": 14,
+    "exit_zero": 8,
+    "preserved_technical_failures": 6,
+    "process_elapsed_seconds": 51.00860079101403,
+    "elapsed_definition": "Sum of launcher-observed process wall times, including failures; concurrent T1/T2 times are both counted. Not CPU utilization or total conversation wall time.",
+    "active_scientific_jobs": 0,
+    "new_gpu_jobs": 0,
+    "new_LES_branches": 0,
+    "new_precursors": 0,
+    "verified_utc": "2026-09-15T11:12:16.483257+00:00"
+  },
+  "provenance": "audit/executions/re_mainline_accumulation_20260915/PROVENANCE_AUDIT.json",
+  "technical_retry_deviation": "audit/executions/re_mainline_accumulation_20260915/TECHNICAL_FIX.md",
+  "documents": [
+    {
+      "docx": "paper/08_manuscript/master/manuscript.docx",
+      "docx_sha256": "5d992567293cfa3e4adb4326a6a6ea5972e2228ac676ae2d00288032893e0b85",
+      "pdf": "paper/08_manuscript/master/manuscript_preview.pdf",
+      "pdf_sha256": "7ed02ac206853da18a305b81a59371536a70e5612547763be6455af0d9916c09",
+      "pages": 29,
+      "figures": 9,
+      "tables": 3
+    },
+    {
+      "docx": "paper/08_manuscript/supplements/Supplementary_Information.docx",
+      "docx_sha256": "7cf05c1548fb826b73379c0af1c05a4874f858f26a006bb8ccd642261ccb7d2f",
+      "pdf": "paper/08_manuscript/supplements/Supplementary_Information.pdf",
+      "pdf_sha256": "ccf37b8a161679157687a78b9c58bef2df15b974cfdd38248500538be87a6e67",
+      "pages": 51,
+      "figures": 10,
+      "tables": 51
+    }
+  ],
+  "source_package": {
+    "path": "/home/shao/codex-home/JAX-WFCOYAW-MPC/paper/08_manuscript/supplements/Source_Data_dynamic_comparator_20260915.zip",
+    "bytes": 10356632,
+    "sha256": "b55669d1ddfd577c8af2aa9acde2d32f7df1dede753be0b25712b378385fd83c",
+    "files": 456
+  },
+  "portable_verification": {
+    "status": "pass",
+    "hashed_files": 455,
+    "scalar_checks": 24,
+    "max_metric_error": 2.220446049250313e-16,
+    "evidence": "Fixed prescribed-action score reproduction only; not LES or closed-loop rerun",
+    "package_sha256": "b55669d1ddfd577c8af2aa9acde2d32f7df1dede753be0b25712b378385fd83c",
+    "package_bytes": 10356632,
+    "clean_directory": true,
+    "isolated_python": true
+  },
+  "author_review_package": "paper/09_journal_targets/renewable-energy/Renewable_Energy_Mainline_20260915.zip",
+  "readiness": "author_review_ready_pending_inputs",
+  "candidate_advancement": "G0 requires physical harness, live state verification, resource allocation, measured timing and numerical-resolution binding",
+  "submitted": false,
+  "public_deposit": false
+}

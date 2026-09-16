@@ -1,0 +1,20 @@
+{
+  "status": "pass",
+  "created_utc": "2026-09-09T23:35:51.641388+00:00",
+  "file_count": 405,
+  "raw_bytes": 1620720630,
+  "manifest_sha256": "79ebe9f0809504bf89ada08f0aebe813930687c444a0792caba11d79cdf71fab",
+  "archives": {
+    "FULL_SNAPSHOT.tar.gz": {
+      "sha256": "99f6609034af96c801427e3bc28359d9011e05bb07acc1b52887f6ebcd291a70",
+      "bytes": 1495574140,
+      "path": "/data/sz_workspace/JAX-WFCOYAW-MPC/cbh20_net_energy_consistent_freeze_20260910/FULL_SNAPSHOT.tar.gz"
+    },
+    "REVIEW.tar.gz": {
+      "sha256": "ee624e3f83a9cd076d74d35721b8c6b36931dccb0b3c2a31a14d1249659cbefe",
+      "bytes": 12893835,
+      "path": "/data/sz_workspace/JAX-WFCOYAW-MPC/cbh20_net_energy_consistent_freeze_20260910/REVIEW.tar.gz"
+    }
+  },
+  "future_experiments_authorized": false
+}

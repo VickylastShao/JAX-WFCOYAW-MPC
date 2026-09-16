@@ -1,0 +1,7 @@
+run,family,arm,farm_relative_difference_percent,maximum_turbine_difference_percent,failed_turbines
+linear_T1,T1,no_yaw,0.08825162635987803,5.865337897021179,9
+linear_T1,T1,prescribed_yaw,0.4372276296698241,3.4306176290475388,
+cubic_Fourier_T1,T1,no_yaw,0.373664980272625,6.109582214059791,9
+cubic_Fourier_T1,T1,prescribed_yaw,0.09852296656862496,5.352894906684746,8
+cubic_Fourier_T2,T2,no_yaw,0.2017054207940732,5.5272467867977,"7,8,9"
+cubic_Fourier_T2,T2,prescribed_yaw,0.455296631251,8.47929956693049,8

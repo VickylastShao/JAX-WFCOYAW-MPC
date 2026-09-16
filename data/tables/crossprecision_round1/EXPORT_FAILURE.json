@@ -1,0 +1,5 @@
+{
+  "status": "export_assertion_failed",
+  "reason": "Exporter incorrectly required bitwise directional replay equality; original frozen supplemental criteria require absolute difference <= 1e-9 MW/degree. K3/T1 observed 1.4551915228366852e-10. Source results unchanged.",
+  "successor": "crossprecision_round2"
+}

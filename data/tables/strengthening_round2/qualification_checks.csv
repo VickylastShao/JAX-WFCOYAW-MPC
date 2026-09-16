@@ -1,0 +1,5 @@
+cell,segments,numerical_status,forward_parity_pass,physical_pass,nonsmooth_pass,derivative_directions,failed_directions,exit_code,numerical_precision
+OC-73090801__T1,1,pass,True,True,True,1,,0,highest
+OC-73090801__T2,1,pass,True,True,True,1,,0,highest
+OC-73090801__T1,2,fail,True,True,True,4,FD_switching_0,1,highest
+OC-73090801__T1,3,fail,True,True,True,6,FD_switching_0,1,highest

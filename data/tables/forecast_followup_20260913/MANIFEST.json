@@ -1,0 +1,13 @@
+{
+  "generator": "paper/tools/forecast_followup_results.py",
+  "prepare_results_extension": true,
+  "sources": {
+    "audit/executions/re_revision_20260913/B3/results_v1/RESULT.json": "68007aec25c8f210a0d1ae5f57196a19c9fb9fb9a704d1579937e0a957bc1db9"
+  },
+  "outputs": {
+    "S17d.csv": "eab1cf2cfd22e1ae90531c9cdf750125cd4abdfa37647b8a3e14ab4aaeb0f932",
+    "POOLED.json": "0265d1c8d9a0582e3bb00727fe91c7dd0b0f54c0c0c43efddcafdd620988043c",
+    "F2_cells.csv": "d071272dcd9beea62a6af2807223760f78ed594cfb91f033b04e5f648160db29",
+    "S17d.json": "425c111815986145efbab76ce224e2e9fa2286b7a13ddf6dfd1be1513c2ec3b3"
+  }
+}

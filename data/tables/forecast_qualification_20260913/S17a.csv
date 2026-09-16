@@ -1,0 +1,5 @@
+Scenario / issue,Historical macro slope,F0 application-interval RMSE
+T1 / 200 s,-1.7623e-10 m s⁻²,1.4656 m s⁻¹
+T1 / 400 s,+0.00343796 m s⁻²,1.8625 m s⁻¹
+T2 / 200 s,-6.20079e-11 degrees s⁻¹,7.3279 degrees
+T2 / 400 s,+0.0171898 degrees s⁻¹,9.3124 degrees

@@ -1,0 +1,622 @@
+{
+  "excluded_operations": [
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_actual_target_20260916.zip!audit/executions/re_actual_target_qualification_20260916/ACTUAL_SOURCE.tar.gz",
+      "path": "manage.py",
+      "sha256": "f2272aa6cd78b2674778e682d14481f92eb527740b3f7938b3bf678ad753e419",
+      "bytes": 5144,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_actual_target_20260916.zip!audit/executions/re_actual_target_qualification_20260916/A2_DELIVERY.zip",
+      "path": "manage.py",
+      "sha256": "f2272aa6cd78b2674778e682d14481f92eb527740b3f7938b3bf678ad753e419",
+      "bytes": 5144,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_actual_target_20260916.zip!audit/executions/re_actual_target_qualification_20260916/A1_DELIVERY.zip",
+      "path": "manage.py",
+      "sha256": "f2272aa6cd78b2674778e682d14481f92eb527740b3f7938b3bf678ad753e419",
+      "bytes": 5144,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_actual_target_20260916.zip",
+      "path": "audit/executions/re_actual_target_qualification_20260916/manage.py",
+      "sha256": "f2272aa6cd78b2674778e682d14481f92eb527740b3f7938b3bf678ad753e419",
+      "bytes": 5144,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_actual_target_20260916.zip!audit/executions/re_actual_target_qualification_20260916/ACTUAL_SOURCE_V2.tar.gz",
+      "path": "manage.py",
+      "sha256": "f2272aa6cd78b2674778e682d14481f92eb527740b3f7938b3bf678ad753e419",
+      "bytes": 5144,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_actual_target_20260916.zip!audit/executions/re_actual_target_qualification_20260916/ALL_DELIVERY.zip",
+      "path": "manage.py",
+      "sha256": "f2272aa6cd78b2674778e682d14481f92eb527740b3f7938b3bf678ad753e419",
+      "bytes": 5144,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_actual_target_20260916.zip",
+      "path": "audit/executions/re_actual_target_qualification_20260916/VPN_PREFLIGHT.json",
+      "sha256": "8f0ff95c3884a2b81acdea123f53a8908c538aa074e19ff7c3077cd62dabdead",
+      "bytes": 667,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_actual_target_20260916.zip",
+      "path": "audit/executions/re_actual_target_qualification_20260916/source_v2/manage.py",
+      "sha256": "f2272aa6cd78b2674778e682d14481f92eb527740b3f7938b3bf678ad753e419",
+      "bytes": 5144,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_derivative_scope_20260915.zip!tangent/TANGENT_DELIVERY.zip!T1_SOURCE.tar.gz",
+      "path": "manage.py",
+      "sha256": "6fa471ee53a436f0a88e2f56f2a8143dfba4470b4109acfec934b914189a1f91",
+      "bytes": 4890,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_derivative_scope_20260915.zip!tangent/TANGENT_DELIVERY.zip",
+      "path": "manage.py",
+      "sha256": "6fa471ee53a436f0a88e2f56f2a8143dfba4470b4109acfec934b914189a1f91",
+      "bytes": 4890,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_derivative_scope_20260915.zip!fullgraph/FULLGRAPH_DELIVERY.zip!S2_SOURCE.tar.gz",
+      "path": "manage.py",
+      "sha256": "9547facaae4c10e13ceb30d74370360c92829bb54cb2a849446c88e18f497e78",
+      "bytes": 4896,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_derivative_scope_20260915.zip!fullgraph/FULLGRAPH_DELIVERY.zip",
+      "path": "manage.py",
+      "sha256": "9547facaae4c10e13ceb30d74370360c92829bb54cb2a849446c88e18f497e78",
+      "bytes": 4896,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_derivative_scope_20260915.zip",
+      "path": "native64_pilot/source/manage64.py",
+      "sha256": "7cdf8df7cb1e39e50bfa2a10443558b24d969df7ef8647b2aefb1adfffd120ba",
+      "bytes": 4902,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_focused_causal_value_20260914.zip!DATA/C_RECOVERY_SOURCE.tar.gz",
+      "path": "launch_c.py",
+      "sha256": "3d31489134d11e905d3973204323142c36acea3a930ca3a93b28820e58c31e85",
+      "bytes": 5199,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_focused_causal_value_20260914.zip!DATA/C_SUPERVISION_V2_SOURCE.tar.gz",
+      "path": "manage_c_v2.py",
+      "sha256": "acf53d97d66abd06d9ab715c7400149b5d6879fe67333b110b81d0a8e7a96e6f",
+      "bytes": 4677,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_focused_causal_value_20260914.zip",
+      "path": "DATA/frozen_source/audit/executions/re_strengthening_20260912/confirmation/launch.py",
+      "sha256": "e9f3c3b3d5c686e31ca43fb600a98e5f251687ae439c1b21c566a6411fc71d8d",
+      "bytes": 9955,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_focused_causal_value_20260914.zip",
+      "path": "DATA/frozen_source/audit/executions/re_strengthening_20260912/managed_container.py",
+      "sha256": "9aaf7c8e67f62777e1750e73b5a9530a42fdd78d814f3c0140ae9a0c6db8157d",
+      "bytes": 2792,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_focused_causal_value_20260914.zip",
+      "path": "DATA/frozen_source/src/launch_ex1b_campaign.py",
+      "sha256": "3e4dbd12cdb7df1ad863f0871e58126f42e09b30978e3556043d83e960190426",
+      "bytes": 12751,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_focused_causal_value_20260914.zip",
+      "path": "DATA/frozen_source/src/launch_ex1b_nonretry_continuation.py",
+      "sha256": "266e480734d38b1f68285ea2369c642230aadc8e8bbcad3edd4d5101b8515bb0",
+      "bytes": 8511,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_focused_causal_value_20260914.zip",
+      "path": "DATA/frozen_source/src/launch_ex2_persistence.py",
+      "sha256": "4297be44d0a29db483895d7661c44c7a500cbac9b7ae3b4fbdc59b86b9dcacbd",
+      "bytes": 10480,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_focused_causal_value_20260914.zip",
+      "path": "DATA/frozen_source/src/launch_ex3_remote.py",
+      "sha256": "f7964f102babea399bd60109659a9a8d01ad56d1ba67870f4f1f393ac98d073f",
+      "bytes": 20525,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_focused_causal_value_20260914.zip",
+      "path": "DATA/frozen_source/src/launch_xt_m1_planning_control_supervisor.py",
+      "sha256": "45d597ea469e14f367a6140435e2f4921b8010a0ff1bc0a3020bbf8122375244",
+      "bytes": 6505,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_focused_causal_value_20260914.zip",
+      "path": "DATA/frozen_source/src/launch_xt_m1_planning_wave.py",
+      "sha256": "2507895e86b29399c9a8a101bf31297398055278db3add54f367a95c6d33caf2",
+      "bytes": 11220,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_focused_causal_value_20260914.zip",
+      "path": "DATA/frozen_source/src/supervise_xt_m1_planning_control.py",
+      "sha256": "21fc9d24068f7ae6eadc5b9159bb10f5d4e854d8ba6478017168c6a15bb5cf9a",
+      "bytes": 23855,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_focused_causal_value_20260914.zip",
+      "path": "DATA/frozen_source/src/supervise_xt_m1_planning_waves.py",
+      "sha256": "238cadb6d9369399ca6bc0bbfb2b73293f049178de3da97837674a7fd7ae3758",
+      "bytes": 12366,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_focused_causal_value_20260914.zip",
+      "path": "DATA/launch_c.py",
+      "sha256": "3d31489134d11e905d3973204323142c36acea3a930ca3a93b28820e58c31e85",
+      "bytes": 5199,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_focused_causal_value_20260914.zip",
+      "path": "DATA/manage_c_v2.py",
+      "sha256": "acf53d97d66abd06d9ab715c7400149b5d6879fe67333b110b81d0a8e7a96e6f",
+      "bytes": 4677,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_method_value_20260913.zip",
+      "path": "launch.py",
+      "sha256": "89db648f9ebf4794544c572ed8d598d4a17afd8942a2c97efdf652448fdca2ce",
+      "bytes": 7102,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_method_value_20260913.zip",
+      "path": "launch_e2.py",
+      "sha256": "b177b682acef1080e5ddf104a33ccd778fbc8cc7fe6313e516a76a9dbec9602a",
+      "bytes": 7538,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_native64_closure_20260916.zip!audit/executions/re_native64_closure_20260916/NATIVE64_DELIVERY.zip!C0_SOURCE.tar.gz",
+      "path": "manage.py",
+      "sha256": "64ccda45e20eae233bef364a727e5cfe430ff04c2b3c706b2c835c5cb067ee6f",
+      "bytes": 4971,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_native64_closure_20260916.zip!audit/executions/re_native64_closure_20260916/NATIVE64_DELIVERY.zip",
+      "path": "manage.py",
+      "sha256": "64ccda45e20eae233bef364a727e5cfe430ff04c2b3c706b2c835c5cb067ee6f",
+      "bytes": 4971,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_native64_closure_20260916.zip",
+      "path": "audit/executions/re_native64_closure_20260916/manage.py",
+      "sha256": "64ccda45e20eae233bef364a727e5cfe430ff04c2b3c706b2c835c5cb067ee6f",
+      "bytes": 4971,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_native64_closure_20260916.zip!audit/executions/re_native64_closure_20260916/C0_SOURCE.tar.gz",
+      "path": "manage.py",
+      "sha256": "64ccda45e20eae233bef364a727e5cfe430ff04c2b3c706b2c835c5cb067ee6f",
+      "bytes": 4971,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_native64_closure_20260916.zip",
+      "path": "audit/executions/re_native64_closure_20260916/VPN_PREFLIGHT.json",
+      "sha256": "85f7fb839927f9486c1e2aaaf2caf58194e0310562e83da2b2f0b6d7b1bc130f",
+      "bytes": 667,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_native64_closure_20260916.zip!audit/executions/re_native64_local_20260916/LOCAL_SOURCE.tar.gz",
+      "path": "manage.py",
+      "sha256": "e6cd809508634b9146dc89940fc9aba6b68b141610a56e7f1fbf2db3f7d33502",
+      "bytes": 4965,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_native64_closure_20260916.zip!audit/executions/re_native64_local_20260916/SOURCE_V2.tar.gz",
+      "path": "manage.py",
+      "sha256": "e6cd809508634b9146dc89940fc9aba6b68b141610a56e7f1fbf2db3f7d33502",
+      "bytes": 4965,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_native64_closure_20260916.zip",
+      "path": "audit/executions/re_native64_local_20260916/manage.py",
+      "sha256": "e6cd809508634b9146dc89940fc9aba6b68b141610a56e7f1fbf2db3f7d33502",
+      "bytes": 4965,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_native64_closure_20260916.zip!audit/executions/re_native64_local_20260916/ALL_DELIVERY.zip!SOURCE_V2.tar.gz",
+      "path": "manage.py",
+      "sha256": "e6cd809508634b9146dc89940fc9aba6b68b141610a56e7f1fbf2db3f7d33502",
+      "bytes": 4965,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_native64_closure_20260916.zip!audit/executions/re_native64_local_20260916/ALL_DELIVERY.zip",
+      "path": "manage.py",
+      "sha256": "e6cd809508634b9146dc89940fc9aba6b68b141610a56e7f1fbf2db3f7d33502",
+      "bytes": 4965,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_native64_closure_20260916.zip!audit/executions/re_native64_local_20260916/L1_DELIVERY.zip!SOURCE_V2.tar.gz",
+      "path": "manage.py",
+      "sha256": "e6cd809508634b9146dc89940fc9aba6b68b141610a56e7f1fbf2db3f7d33502",
+      "bytes": 4965,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_native64_closure_20260916.zip!audit/executions/re_native64_local_20260916/L1_DELIVERY.zip",
+      "path": "manage.py",
+      "sha256": "e6cd809508634b9146dc89940fc9aba6b68b141610a56e7f1fbf2db3f7d33502",
+      "bytes": 4965,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_native64_closure_20260916.zip",
+      "path": "audit/executions/re_native64_local_20260916/source_v2/manage.py",
+      "sha256": "e6cd809508634b9146dc89940fc9aba6b68b141610a56e7f1fbf2db3f7d33502",
+      "bytes": 4965,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip!audit/executions/re_own_tail_qualification_20260915/G0_DELIVERY.zip",
+      "path": "manage.py",
+      "sha256": "53e4fc6574d599ca7c9f6367333bbc899915dffbe83db6b8b990929a7eab42e7",
+      "bytes": 5362,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip",
+      "path": "audit/executions/re_own_tail_qualification_20260915/manage.py",
+      "sha256": "53e4fc6574d599ca7c9f6367333bbc899915dffbe83db6b8b990929a7eab42e7",
+      "bytes": 5362,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip!audit/executions/re_own_tail_reassessment_20260916/O1_DELIVERY.zip",
+      "path": "manage.py",
+      "sha256": "494a89fe87e6815881e88fdd10ad019f22f8fe42a02587563ae92cdecad4ee6d",
+      "bytes": 5165,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip",
+      "path": "audit/executions/re_own_tail_reassessment_20260916/manage.py",
+      "sha256": "494a89fe87e6815881e88fdd10ad019f22f8fe42a02587563ae92cdecad4ee6d",
+      "bytes": 5165,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip!audit/executions/re_own_tail_native64_20260916/ALL_DELIVERY.zip",
+      "path": "manage.py",
+      "sha256": "8a926614c36674fb0552f9a23a02d024b6420eb8f10eac5bea31d0c3c08a8d0e",
+      "bytes": 5153,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip",
+      "path": "audit/executions/re_own_tail_native64_20260916/manage.py",
+      "sha256": "8a926614c36674fb0552f9a23a02d024b6420eb8f10eac5bea31d0c3c08a8d0e",
+      "bytes": 5153,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip!audit/executions/re_own_tail_matrix_20260916/F_DELIVERY.zip",
+      "path": "manage.py",
+      "sha256": "a6da9a010b7f5d721fcd934384f9ceebb968ab83e1f2f772be50d133efbac369",
+      "bytes": 5147,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip!audit/executions/re_own_tail_matrix_20260916/ALL_DELIVERY.zip",
+      "path": "manage.py",
+      "sha256": "a6da9a010b7f5d721fcd934384f9ceebb968ab83e1f2f772be50d133efbac369",
+      "bytes": 5147,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip",
+      "path": "audit/executions/re_own_tail_matrix_20260916/manage.py",
+      "sha256": "a6da9a010b7f5d721fcd934384f9ceebb968ab83e1f2f772be50d133efbac369",
+      "bytes": 5147,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip",
+      "path": "audit/executions/re_own_tail_matrix_20260916/local_launch_tools/run_geometry_diagnosis.py",
+      "sha256": "01ddd51256a6ae270fbac70bb48ea52d35d633de1584253de620f6856a77f539",
+      "bytes": 2557,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip",
+      "path": "audit/executions/re_own_tail_matrix_20260916/local_launch_tools/diagnose_geometry.py",
+      "sha256": "65a64f4e6e367ca1555cc419d2da4db8937d6594e8056e247842641240df61c6",
+      "bytes": 3094,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip",
+      "path": "audit/executions/re_own_tail_matrix_20260916/local_launch_tools/mirror_gate.py",
+      "sha256": "c35aec786a1a4b80b5692180055577306b9063bb7bdb1d9d018257c2f7c43cde",
+      "bytes": 2009,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip!audit/executions/re_own_tail_rounding_20260916/ALL_DELIVERY.zip",
+      "path": "supervise_r1.py",
+      "sha256": "b59c66d256552d88ac4314186dfe365909874d0b5587d2c1b2b5ae61e50d36b7",
+      "bytes": 8403,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip!audit/executions/re_own_tail_rounding_20260916/ALL_DELIVERY.zip",
+      "path": "manage.py",
+      "sha256": "60930d004f43e30bbe58606f6bade52584c7e250f1f019e697386a4b7c140787",
+      "bytes": 5153,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip!audit/executions/re_own_tail_rounding_20260916/ALL_DELIVERY.zip!reference/O3_F_DELIVERY.zip",
+      "path": "manage.py",
+      "sha256": "a6da9a010b7f5d721fcd934384f9ceebb968ab83e1f2f772be50d133efbac369",
+      "bytes": 5147,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip",
+      "path": "audit/executions/re_own_tail_rounding_20260916/supervise_r1.py",
+      "sha256": "b59c66d256552d88ac4314186dfe365909874d0b5587d2c1b2b5ae61e50d36b7",
+      "bytes": 8403,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip",
+      "path": "audit/executions/re_own_tail_rounding_20260916/manage.py",
+      "sha256": "60930d004f43e30bbe58606f6bade52584c7e250f1f019e697386a4b7c140787",
+      "bytes": 5153,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip",
+      "path": "audit/executions/re_own_tail_rounding_20260916/local_launch_tools/run_release.py",
+      "sha256": "e11a2a0f10e2c3cd3c774450c75bf5708692030d54d810d95756ef9cd4aade7e",
+      "bytes": 3013,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip",
+      "path": "audit/executions/re_own_tail_rounding_20260916/local_launch_tools/mirror_gate.py",
+      "sha256": "f84fda2d45039cdafbda51aabb45e7e7b66d29a7968691c03c9968a4e1e016f8",
+      "bytes": 2024,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip",
+      "path": "audit/executions/re_own_tail_rounding_20260916/local_launch_tools/build_release.py",
+      "sha256": "c7f4f130ce495720deafef250ed5b44591b1c034d030a1903508e2c376348099",
+      "bytes": 4045,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip!audit/executions/re_own_tail_causal_comparison_20260916/G1_DELIVERY.zip",
+      "path": "manage.py",
+      "sha256": "83daae62a2455701ad8cf8768df4936888be68f334ff126094fe8871a31adcf2",
+      "bytes": 5147,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip",
+      "path": "audit/executions/re_own_tail_causal_comparison_20260916/manage.py",
+      "sha256": "83daae62a2455701ad8cf8768df4936888be68f334ff126094fe8871a31adcf2",
+      "bytes": 5147,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/07_results/source_data/Source_Data_contribution_upgrade_20260914.zip",
+      "path": "launch.py",
+      "sha256": "3901334f05265c33f9d32e6f14e2ac6b6046a01f9637cdc492d5cca6ebb78c1e",
+      "bytes": 8064,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "paper/07_results/source_data/Source_Data_postU1_execution_20260914.zip",
+      "path": "audit/executions/re_value_upgrade_postU1_20260914/D1/launch_reference.py",
+      "sha256": "4416eb41ad2f6c089cee5de1ee9f0c02005388cec52a6b3343b10655c8195565",
+      "bytes": 5730,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/paper2_net_energy_final_freeze_20260910/REVIEW.tar.gz!SOURCE_PACKAGE.tar.gz",
+      "path": "audit/executions/net_energy_consistent_20260909/LAUNCH.sh",
+      "sha256": "383b6a7cd1dabc2e517d6574360a3d643e732879615c3a50a4e9653f2ec57972",
+      "bytes": 3568,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/paper2_net_energy_final_freeze_20260910/REVIEW.tar.gz!SOURCE_PACKAGE.tar.gz",
+      "path": "audit/executions/net_energy_mpc_20260909/allocated/LAUNCH.sh",
+      "sha256": "42d8088b664f035f785fc47ce4758de9af0e1b5819c252a4c5754d2004008d8d",
+      "bytes": 3214,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/paper2_net_energy_final_freeze_20260910/REVIEW.tar.gz!SOURCE_PACKAGE.tar.gz",
+      "path": "audit/executions/net_energy_mpc_recovery_20260909/LAUNCH.sh",
+      "sha256": "e4c2224d0eb8f72636f79f50ce4f66cc4fab5e5d2eb75c255cf8f875821586c2",
+      "bytes": 3231,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/paper2_net_energy_final_freeze_20260910/REVIEW.tar.gz!SOURCE_PACKAGE.tar.gz",
+      "path": "src/launch_ex1b_campaign.py",
+      "sha256": "3e4dbd12cdb7df1ad863f0871e58126f42e09b30978e3556043d83e960190426",
+      "bytes": 12751,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/paper2_net_energy_final_freeze_20260910/REVIEW.tar.gz!SOURCE_PACKAGE.tar.gz",
+      "path": "src/launch_ex1b_nonretry_continuation.py",
+      "sha256": "266e480734d38b1f68285ea2369c642230aadc8e8bbcad3edd4d5101b8515bb0",
+      "bytes": 8511,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/paper2_net_energy_final_freeze_20260910/REVIEW.tar.gz!SOURCE_PACKAGE.tar.gz",
+      "path": "src/launch_ex2_persistence.py",
+      "sha256": "4297be44d0a29db483895d7661c44c7a500cbac9b7ae3b4fbdc59b86b9dcacbd",
+      "bytes": 10480,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/paper2_net_energy_final_freeze_20260910/REVIEW.tar.gz!SOURCE_PACKAGE.tar.gz",
+      "path": "src/launch_ex3_remote.py",
+      "sha256": "f7964f102babea399bd60109659a9a8d01ad56d1ba67870f4f1f393ac98d073f",
+      "bytes": 20525,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/paper2_net_energy_final_freeze_20260910/REVIEW.tar.gz!SOURCE_PACKAGE.tar.gz",
+      "path": "src/launch_xt_m1_planning_control_supervisor.py",
+      "sha256": "45d597ea469e14f367a6140435e2f4921b8010a0ff1bc0a3020bbf8122375244",
+      "bytes": 6505,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/paper2_net_energy_final_freeze_20260910/REVIEW.tar.gz!SOURCE_PACKAGE.tar.gz",
+      "path": "src/launch_xt_m1_planning_wave.py",
+      "sha256": "2507895e86b29399c9a8a101bf31297398055278db3add54f367a95c6d33caf2",
+      "bytes": 11220,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/paper2_net_energy_final_freeze_20260910/REVIEW.tar.gz!SOURCE_PACKAGE.tar.gz",
+      "path": "src/supervise_xt_m1_planning_control.py",
+      "sha256": "21fc9d24068f7ae6eadc5b9159bb10f5d4e854d8ba6478017168c6a15bb5cf9a",
+      "bytes": 23855,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/paper2_net_energy_final_freeze_20260910/REVIEW.tar.gz!SOURCE_PACKAGE.tar.gz",
+      "path": "src/supervise_xt_m1_planning_waves.py",
+      "sha256": "238cadb6d9369399ca6bc0bbfb2b73293f049178de3da97837674a7fd7ae3758",
+      "bytes": 12366,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/executions/net_energy_consistent_20260909/PACKAGE.tar.gz",
+      "path": "audit/executions/net_energy_consistent_20260909/LAUNCH.sh",
+      "sha256": "383b6a7cd1dabc2e517d6574360a3d643e732879615c3a50a4e9653f2ec57972",
+      "bytes": 3568,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/executions/net_energy_consistent_20260909/PACKAGE.tar.gz",
+      "path": "audit/executions/net_energy_mpc_20260909/allocated/LAUNCH.sh",
+      "sha256": "42d8088b664f035f785fc47ce4758de9af0e1b5819c252a4c5754d2004008d8d",
+      "bytes": 3214,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/executions/net_energy_consistent_20260909/PACKAGE.tar.gz",
+      "path": "audit/executions/net_energy_mpc_recovery_20260909/LAUNCH.sh",
+      "sha256": "e4c2224d0eb8f72636f79f50ce4f66cc4fab5e5d2eb75c255cf8f875821586c2",
+      "bytes": 3231,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/executions/net_energy_consistent_20260909/PACKAGE.tar.gz",
+      "path": "src/launch_ex1b_campaign.py",
+      "sha256": "3e4dbd12cdb7df1ad863f0871e58126f42e09b30978e3556043d83e960190426",
+      "bytes": 12751,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/executions/net_energy_consistent_20260909/PACKAGE.tar.gz",
+      "path": "src/launch_ex1b_nonretry_continuation.py",
+      "sha256": "266e480734d38b1f68285ea2369c642230aadc8e8bbcad3edd4d5101b8515bb0",
+      "bytes": 8511,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/executions/net_energy_consistent_20260909/PACKAGE.tar.gz",
+      "path": "src/launch_ex2_persistence.py",
+      "sha256": "4297be44d0a29db483895d7661c44c7a500cbac9b7ae3b4fbdc59b86b9dcacbd",
+      "bytes": 10480,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/executions/net_energy_consistent_20260909/PACKAGE.tar.gz",
+      "path": "src/launch_ex3_remote.py",
+      "sha256": "f7964f102babea399bd60109659a9a8d01ad56d1ba67870f4f1f393ac98d073f",
+      "bytes": 20525,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/executions/net_energy_consistent_20260909/PACKAGE.tar.gz",
+      "path": "src/launch_xt_m1_planning_control_supervisor.py",
+      "sha256": "45d597ea469e14f367a6140435e2f4921b8010a0ff1bc0a3020bbf8122375244",
+      "bytes": 6505,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/executions/net_energy_consistent_20260909/PACKAGE.tar.gz",
+      "path": "src/launch_xt_m1_planning_wave.py",
+      "sha256": "2507895e86b29399c9a8a101bf31297398055278db3add54f367a95c6d33caf2",
+      "bytes": 11220,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/executions/net_energy_consistent_20260909/PACKAGE.tar.gz",
+      "path": "src/supervise_xt_m1_planning_control.py",
+      "sha256": "21fc9d24068f7ae6eadc5b9159bb10f5d4e854d8ba6478017168c6a15bb5cf9a",
+      "bytes": 23855,
+      "reason": "remote operation or network configuration"
+    },
+    {
+      "archive": "audit/executions/net_energy_consistent_20260909/PACKAGE.tar.gz",
+      "path": "src/supervise_xt_m1_planning_waves.py",
+      "sha256": "238cadb6d9369399ca6bc0bbfb2b73293f049178de3da97837674a7fd7ae3758",
+      "bytes": 12366,
+      "reason": "remote operation or network configuration"
+    }
+  ],
+  "scientific_leaf_files": "retained byte-for-byte; no scores recomputed",
+  "original_archives": "retained unchanged in the research workspace"
+}

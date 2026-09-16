@@ -1,0 +1,32 @@
+[
+  [
+    "Candidate / scenario",
+    "Numerical qualification",
+    "Maximum online time",
+    "Scoring eligibility"
+  ],
+  [
+    "F1 / T1",
+    "Passed",
+    "159.99 s",
+    "Candidate blocked by T2"
+  ],
+  [
+    "F1 / T2",
+    "FD plateau failed",
+    "Not evaluated",
+    "No"
+  ],
+  [
+    "F2 / T1",
+    "Passed",
+    "160.91 s",
+    "Yes, with T2"
+  ],
+  [
+    "F2 / T2",
+    "Passed",
+    "161.12 s",
+    "Yes, with T1"
+  ]
+]

@@ -1,0 +1,2 @@
+case,family,direction_bias_deg,velocity_scale,MPC_minus_noyaw_kwh,MPC_minus_lookup_kwh,MPC_gain_over_noyaw_percent,MPC_gain_over_lookup_percent,root_count
+dir_m5,T1,-5.0,1.0,-5.775701297893647,-33.692900652928984,-0.10659290095422769,-0.6186287752416697,1

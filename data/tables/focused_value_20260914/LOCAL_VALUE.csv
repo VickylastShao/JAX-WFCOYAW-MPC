@@ -1,0 +1,17 @@
+root,scenario,issue_s,window_s,forecast_id,V_F_kwh,V_T_kwh,band_F_kwh,band_T_kwh,forecast_sign,truth_sign,classification,evidence_class
+SC-74121202,T1,400,200,past_mean,2.7469166780066985,-0.7192972377919205,0.007230345292925348,0.015315891413229168,positive,negative,reversal,outcome_exposed_causal_development_diagnostic
+SC-74121202,T1,400,480,past_mean,24.420544585558787,11.158127048666529,0.016046257834318574,0.03701193635963542,positive,positive,preserved_positive,outcome_exposed_causal_development_diagnostic
+SC-74121202,T1,1200,200,past_mean,-0.6896252962249036,-3.819892633030463,0.011886071169461807,0.0070503528069444455,negative,negative,predicted_not_resolved_positive,outcome_exposed_causal_development_diagnostic
+SC-74121202,T1,1200,480,past_mean,38.123772905163605,-6.8549381877179485,0.025845160495156252,0.01591955297110243,positive,negative,reversal,outcome_exposed_causal_development_diagnostic
+SC-74121202,T2,400,200,past_mean,1.9457869606422378,6.72367928529502,0.009744200665815973,0.014613469439253474,positive,positive,preserved_positive,outcome_exposed_causal_development_diagnostic
+SC-74121202,T2,400,480,past_mean,40.326223648142104,4.889628254045192,0.021619794446345486,0.036006150904218756,positive,positive,preserved_positive,outcome_exposed_causal_development_diagnostic
+SC-74121202,T2,1200,200,past_mean,3.224767000182851,3.188438392543958,0.013495364589930559,0.01149097262420139,positive,positive,preserved_positive,outcome_exposed_causal_development_diagnostic
+SC-74121202,T2,1200,480,past_mean,26.26336969983572,1.9403907484468164,0.031489013902725696,0.02510476255498264,positive,positive,preserved_positive,outcome_exposed_causal_development_diagnostic
+SC-74121203,T1,400,200,past_mean,0.32087912330285917,1.1769175859764118,0.005449003431328127,0.01580794591548611,positive,positive,preserved_positive,outcome_exposed_causal_development_diagnostic
+SC-74121203,T1,400,480,past_mean,16.70637349830281,1.3076388950041746,0.012043607970685766,0.03619796573045139,positive,positive,preserved_positive,outcome_exposed_causal_development_diagnostic
+SC-74121203,T1,1200,200,past_mean,3.236464276426659,-2.5727765438859365,0.011574596818368057,0.00711991209606771,positive,negative,reversal,outcome_exposed_causal_development_diagnostic
+SC-74121203,T1,1200,480,past_mean,28.176604024690505,-4.9125099076012475,0.025760659326163192,0.016334582285677086,positive,negative,reversal,outcome_exposed_causal_development_diagnostic
+SC-74121203,T2,400,200,past_mean,0.22762202172020807,-3.1539194574463636,0.007480584475711807,0.015422564958888892,positive,negative,reversal,outcome_exposed_causal_development_diagnostic
+SC-74121203,T2,400,480,past_mean,22.428345240470435,-4.74021042966865,0.016596391235052084,0.037616312420277784,positive,negative,reversal,outcome_exposed_causal_development_diagnostic
+SC-74121203,T2,1200,200,past_mean,-1.5555610045179264,0.9555987420097836,0.017869128490972223,0.01254048153295139,negative,positive,predicted_not_resolved_positive,outcome_exposed_causal_development_diagnostic
+SC-74121203,T2,1200,480,past_mean,11.437525412148716,3.355935908676429,0.043176218660694446,0.026118564718611112,positive,positive,preserved_positive,outcome_exposed_causal_development_diagnostic

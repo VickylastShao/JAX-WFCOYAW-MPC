@@ -1,0 +1,17 @@
+{
+  "question": "How do paired energy outcomes vary across provenance and forecast conditions?",
+  "design": "All observed cell points and complete root sums; separate groups; no cross-group mean or CI",
+  "alternatives": [
+    "separate small-multiple dot plots",
+    "a compact row-level source table"
+  ],
+  "cells": 23,
+  "root_slots": 12,
+  "complete_roots": 11,
+  "missing_cell": "SC-74121201/T1/causal",
+  "old_confirmation_N": 22,
+  "confirmation_complete": false,
+  "independent_unit": "precursor root",
+  "arithmetic": "original frozen FP32 separately from new highest-matmul FP32",
+  "forecast_state": "all MPC arms use full simulated state; causal labels refer only to forecast"
+}

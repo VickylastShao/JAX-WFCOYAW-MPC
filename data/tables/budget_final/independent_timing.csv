@@ -1,0 +1,10 @@
+segments,updates,family,repeat_count,minimum_seconds,maximum_seconds,timing_eligible,run
+1,4,T1,3,159.80656750313938,159.87557758390903,True,audit/executions/re_strengthening_20260912/qualified_highest/results/K1_T1
+1,4,T2,3,159.7402676520869,159.96270214021206,True,audit/executions/re_strengthening_20260912/qualified_highest/results/K1_T2
+2,4,T1,3,159.85433377418667,160.197341109626,True,audit/executions/re_strengthening_20260912/retrieved/snapshot_1600/TIMING_K2_I4_T1
+2,4,T2,3,159.7698549479246,160.12309208884835,True,audit/executions/re_strengthening_20260912/retrieved/compact_2140/TIMING_K2_I4_T2
+3,4,T1,3,159.8448907630518,160.27238973230124,True,audit/executions/re_strengthening_20260912/retrieved/snapshot_1600/TIMING_K3_I4_T1
+3,4,T2,3,159.94793239794672,160.4332266766578,True,audit/executions/re_strengthening_20260912/retrieved/compact_2212/TIMING_K3_I4_T2
+1,8,T1,3,285.8279960975051,286.2262226520106,False,audit/executions/re_strengthening_20260912/retrieved/snapshot_1704/TIMING_K1_I8_T1
+2,8,T1,3,285.4402668904513,285.7110213339329,False,audit/executions/re_strengthening_20260912/retrieved/compact_2212/TIMING_K2_I8_T1
+3,8,T1,3,285.5954184588045,286.2602074025199,False,audit/executions/re_strengthening_20260912/retrieved/final_timing/TIMING_K3_I8_T1

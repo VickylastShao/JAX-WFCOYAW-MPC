@@ -1,0 +1,35 @@
+{
+  "sources": {
+    "audit/executions/re_strengthening_20260912/precision_diagnostic/results/CHECKPOINT_BINDING.json": "3194781daa6d1deec6d003f0c6830d27251dc6047701a7128c171c10ffacc61f",
+    "audit/executions/re_strengthening_20260912/highest_diagnostic/results/CHECKPOINT_BINDING.json": "3194781daa6d1deec6d003f0c6830d27251dc6047701a7128c171c10ffacc61f",
+    "audit/executions/re_strengthening_20260912/gradient_diagnostic/results/DIAGNOSTIC_RESULT.json": "dcbf15775e5bee1ddcd63de50649c58475318c46bf37fbc7371c5f4db4d8f230",
+    "audit/executions/re_strengthening_20260912/gradient_diagnostic/results/current_h0.01.json": "5f42967d42311e2ea234e398f716f1ec58c7d388cca571c7ca656a04589835d3",
+    "audit/executions/re_strengthening_20260912/gradient_diagnostic/results/current_h0.03.json": "5eee15433a5be9825ebe451a4ce3d42f9aa802be8a0e36ebdbd51cb5474860bf",
+    "audit/executions/re_strengthening_20260912/gradient_diagnostic/results/current_h0.1.json": "2ba6d61019b54ef9aaf1bfe45f258dc6507bdb1daf02758a414f856a2ac67af2",
+    "audit/executions/re_strengthening_20260912/gradient_diagnostic/results/current_h0.3.json": "77d7ee1f3d780d945eeecac93978de7ad9ef76bd7c97eb84b74387268aab9d1d",
+    "audit/executions/re_strengthening_20260912/highest_diagnostic/results/highest/h0.01.json": "a0722ef72bb7f1bdb9e1ba4e719793487b65a484c982310d38e3b03a3a714c83",
+    "audit/executions/re_strengthening_20260912/highest_diagnostic/results/highest/h0.03.json": "575af3bad9021c2c7bf2962a1b1158a60ea76ea2a717b0f99306bbfb19bc50c6",
+    "audit/executions/re_strengthening_20260912/highest_diagnostic/results/highest/h0.1.json": "f476893b9f36d2be2381074408dac9f2f01cdb173a44c9c9acd0525eee4b008b",
+    "audit/executions/re_strengthening_20260912/highest_diagnostic/results/highest/h0.3.json": "6fe2a182741617eb64f94059b78b88c2481facf178c1a892d0a13e2e07f1a835",
+    "audit/executions/re_strengthening_20260912/precision_diagnostic/results/fp64/h0.01.json": "de15b77aaff66334497b45236843ab61a26a2cfd841e86cd778137e7683e1999",
+    "audit/executions/re_strengthening_20260912/precision_diagnostic/results/fp64/h0.03.json": "1f7855dc6008656119e86d6482e5a43152775e11c4794702ea2c1a3a92a5340d",
+    "audit/executions/re_strengthening_20260912/precision_diagnostic/results/fp64/h0.1.json": "7e217d38f651784a70c620055767f47d32d10151d9b01aac409c90e3a1ff7b3d",
+    "audit/executions/re_strengthening_20260912/precision_diagnostic/results/fp64/h0.3.json": "fcae31644be56d6e2fce19e99f8110b3bc3050d304a2b9c89fb86250fc3f4f27",
+    "audit/executions/re_strengthening_20260912/qualified_highest/results/K1_T1/EXIT.json": "9e11c58dae32530e80778f8dcf950521c5e323c434645be1a86e4d2cde28cf43",
+    "audit/executions/re_strengthening_20260912/qualified_highest/results/K1_T1/results/RESULT.json": "716134664faa698392607184e50879d087736f85834fb921ab73c0dd3a649866",
+    "audit/executions/re_strengthening_20260912/qualified_highest/results/K1_T1/PROTOCOL.json": "932b95324518eab59d73c4f7e395cf4d9090d5ddb19d9b493e3ddb2960b73fbf",
+    "audit/executions/re_strengthening_20260912/qualified_highest/results/K1_T1/results/timing_0.json": "89c3ca7b862798cdeefb729117aa8ab1094860a36d9341e454bb1f178d658645",
+    "audit/executions/re_strengthening_20260912/qualified_highest/results/K1_T1/results/timing_1.json": "ef59536205ea2a44c6349b566bb00b4130dd87c767290cf4d8a32279a7a15b91",
+    "audit/executions/re_strengthening_20260912/qualified_highest/results/K1_T1/results/timing_2.json": "68f7558940213fa8836276971c6c72f06d2711d03b7bec44d4b6f424c815c182",
+    "audit/executions/re_strengthening_20260912/power_design/SAMPLE_SIZE_SENSITIVITY.csv": "382b43ae1806668ac90cebc38eaf4e2bf6bb2affbaf4a1125b510c1cb860bedf"
+  },
+  "output_sha256": {
+    "precision_derivatives.csv": "d7d157bed3e0815c2d7b52d63078bb2db3afb36dacec80434d888c1b1fc761a9",
+    "sample_size_design.csv": "382b43ae1806668ac90cebc38eaf4e2bf6bb2affbaf4a1125b510c1cb860bedf",
+    "qualification_timing.csv": "6d24985643cb885e5f0a295aad8e9fdaa9a0f4331e2aaeb8f44bf470da33b3ec"
+  },
+  "checkpoint_sha256": "0d1791e6818009e692a5f7217ed56dee556b7f64d0aef8fab89d8dd55403a830",
+  "generates_manuscript": false,
+  "qualification_rows": 3,
+  "derivative_rows": 12
+}

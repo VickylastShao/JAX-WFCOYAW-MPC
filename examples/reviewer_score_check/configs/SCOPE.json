@@ -1,0 +1,9 @@
+{
+  "scope": "Frozen F2 trace accounting and paired technical endpoints only; no solver propagation; not full manuscript reproduction",
+  "dt_seconds": 0.2,
+  "yaw_power_kw": 30,
+  "yaw_rate_deg_s": 0.3,
+  "scoring_seconds": 2280,
+  "source": "B3 frozen scorer copied byte-for-byte",
+  "licence": "Author decision pending; no public redistribution licence asserted"
+}

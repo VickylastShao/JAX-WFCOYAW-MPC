@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "stdout": "{\"files\": 405, \"bytes\": 1620720630, \"final\": {\"status\": \"complete\", \"all_stages_pass\": true, \"elapsed_seconds\": 23954.586725553032}, \"rc\": \"0\\n\"}\n",
+  "stderr": "",
+  "exitCode": 0,
+  "errorMessage": null
+}

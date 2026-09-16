@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "purpose": "paper2_pure_les_mpc_preexperiment_alignment",
+  "status": "prospectively_frozen",
+  "outcomes_present": false,
+  "historical_outcomes_present": true,
+  "research_mainline_path": "audit/PAPER2_PURE_LES_MPC_RESEARCH_MAINLINE_FREEZE_20260901.json",
+  "research_mainline_sha256": "3244468589a890f32d93e01142af8e7e7b8f4ebd450b960ee67254242d81161b",
+  "core_thesis_clause_tested": "Verify source/protocol/trajectory/deadline evidence underlying the completed net-energy LES-MPC result freeze; no new simulation.",
+  "evidence_class": "completed_artifact_integrity_verification",
+  "expected_pass_evidence": [
+    "Remote archive seal, every included result hash and all source bindings verified; 12 scored cells and108 compliant decisions; all stage pass records and rc0."
+  ],
+  "expected_fail_evidence": [
+    "Any hash, shape/count, decision endpoint or terminal status mismatch blocks the freeze."
+  ],
+  "state_scope": {
+    "cells": [
+      {
+        "unit": "OC-73090801",
+        "family": "T1",
+        "seed": 73090801,
+        "binding": {
+          "manifest": "052e7c5f8099d448f473387897759f4d1685c2f63af3a50f45fdcdd310c74db3",
+          "payload": "de2b9698b274ae949e1b82c8e15482e22be0e09c5e074bcf2ed6d0a384264fde",
+          "initial_planes": "042aaaee52df060ed4e1205b1c981f83758bcbde284d61ce291438b3a5b37ae8",
+          "initial_state": "7ee65945f6496dc5f91b8ed191a82b452463dae6e0862f42134e5c26d6e0ddb0"
+        }
+      },
+      {
+        "unit": "OC-73090801",
+        "family": "T2",
+        "seed": 73090801,
+        "binding": {
+          "manifest": "372d2b414b68a945f7a65cf2bf29dacda2de2023f53957c79e6666577d916c98",
+          "payload": "de48729e713da2760cdcefd398dcba192e46614e6a0b004185ba27ad179a922e",
+          "initial_planes": "473fcc13dc6ef44561deedf05ffced71f472cc903e0db4d4cd63712b45204706",
+          "initial_state": "5a9be8611dddfee64ac85865f0dd1e717f1559601e20d5b1778ff50981b4aa0f"
+        }
+      },
+      {
+        "unit": "OC-73090802",
+        "family": "T1",
+        "seed": 73090802,
+        "binding": {
+          "manifest": "f991ab85b35fa38cc3b0a81b8747c00c6cd23c6b1f52acedb8eda350e406924f",
+          "payload": "8b42397688c807c43c0417b312c4fadd3b7e4a0e0bc8e6ff1f8262f849067960",
+          "initial_planes": "934d0471de12e71af716995ce5298d5f6cee453e104eb64c0e7e23e20428af46",
+          "initial_state": "528eb6eaac868b026c1e8678b4871fd69e265a15dfc56707b6217cedbfb538a5"
+        }
+      },
+      {
+        "unit": "OC-73090802",
+        "family": "T2",
+        "seed": 73090802,
+        "binding": {
+          "manifest": "634866840e396471e767d14becd21089f7c36b0d2b648634d367865f7596c351",
+          "payload": "1d1666a4b88861d71c6e40620f3c881cb1f83a9aec9d81d9e176541602b85887",
+          "initial_planes": "23ba18cc312df7732bdaaa60c136a2904af199275255ccb91e74172330fd28b9",
+          "initial_state": "37cf763e462f31d57cf3f752c7a4d7a10daa0f5a808a1afa240efdb20dcc91f4"
+        }
+      },
+      {
+        "unit": "OC-73090803",
+        "family": "T1",
+        "seed": 73090803,
+        "binding": {
+          "manifest": "f2cc5dd66a43dd7f7c84d16f3ac131fd13da218adb596b93a3aa29fb84a640a3",
+          "payload": "3fb9d6a5159605ae0aaa5032fcf932bb9e071615d9cdef549d29a49207937844",
+          "initial_planes": "219ae8b7402291cf36eb9e1487aea2cd39bfd62106d8ac87c07e021ad9545506",
+          "initial_state": "97a30872e117e37b7a2a5af0e5cd5344f72ddf450c00c1e60eab4461af2f3516"
+        }
+      },
+      {
+        "unit": "OC-73090803",
+        "family": "T2",
+        "seed": 73090803,
+        "binding": {
+          "manifest": "cfa825d856fa38e19f305fc6a036723093e57d9626262c8e7ba55ef5158760e2",
+          "payload": "e2729fe6e6e815c486910c46aa1234f416a0f1cf4ce77633071f35802160d8ac",
+          "initial_planes": "10642290f06e37528033a4a7694ec5d27fa72baffc490ef3bb25c2aec0c2613a",
+          "initial_state": "1cc6fe816d6f802ed3d574814246b583bd3c46c6bcdf11a2d1a5e455d0535a9c"
+        }
+      },
+      {
+        "unit": "OC-73090804",
+        "family": "T1",
+        "seed": 73090804,
+        "binding": {
+          "manifest": "76fe7dd1aa08bbae8d9dd7e2da739c3e4eb68aa10b6d69a155edbed5539b950c",
+          "payload": "3fdda363276f0a59f7dd59e9ac1921fb51004a3a77698adb9fcd83aa2db53576",
+          "initial_planes": "9d04d5f71c23d96a211f76109682f5944b4c55cd22b545bbcd581acf2c5fd834",
+          "initial_state": "d6e6ccbea7d9923277575614f1ff7558adbaa631b6acba5ef241d072fd8d1325"
+        }
+      },
+      {
+        "unit": "OC-73090804",
+        "family": "T2",
+        "seed": 73090804,
+        "binding": {
+          "manifest": "bafe8b526b597d46a0b4ce30a47b7f83f4194821a64df386aa671614ab17f5f5",
+          "payload": "dfa62d727b35939a62b56387dac49ae43dff6b4297f3bbbfd60b05b8531c0c5f",
+          "initial_planes": "a65aec65cc0c6e4fde4267074583584d570ef377c1c37c81372c2e2bb7590a83",
+          "initial_state": "1f76f704c3ac0e6fb0ce9a4d6e73e5e24f7b0bd0a7d35712715402a55eb1a443"
+        }
+      },
+      {
+        "unit": "OC-73090805",
+        "family": "T1",
+        "seed": 73090805,
+        "binding": {
+          "manifest": "7ce16d2aa21ab578a7e4fc9b4a36de72b692b0b185b7fe55036fee2f14f5d3d7",
+          "payload": "867f30eaeb05ae5000c7b21f821dd36b6758a76df5d6f8b79892593891e8317c",
+          "initial_planes": "dac673ab1d1f4d4132d5677c0490eb9e3b421af8104a679695d0f0809ca55f7f",
+          "initial_state": "a7aa726a528d4d4bf120c016924e1b8c41f96a8c8e7f7cba1ea68eca2c1aa9c6"
+        }
+      },
+      {
+        "unit": "OC-73090805",
+        "family": "T2",
+        "seed": 73090805,
+        "binding": {
+          "manifest": "8fc2709ca51412df6d14bfcfb03e5fadcd62d89fb5305a4dd5f14f5bcc51748b",
+          "payload": "d38940da4b615644d73a5a2fd45f7ece9ec6a7478a2ffdcd32e70237a7799ec0",
+          "initial_planes": "eeb4b54acec47f6d0556af8e939ecd8f53e5f4aca4c8ac3572d020580a540519",
+          "initial_state": "af56c9d0864a1e4fedf16765a1525cf24b707a034c7bf263e1df91527a5864f5"
+        }
+      },
+      {
+        "unit": "OC-73090806",
+        "family": "T1",
+        "seed": 73090806,
+        "binding": {
+          "manifest": "aae5f73b7ea594255946a77e52a5b1f63b7861a82cb9b58c2e49e7f6530cecc1",
+          "payload": "14effec183c1ab77af03319623c2654289f97af4f76f234d489eeeae20568f01",
+          "initial_planes": "fd91a961c9fffa7f555524f307ce85dbd084ef1a38cef79c8479f46722b46c8d",
+          "initial_state": "0b351c717b95776ee32cba43e93a5c6aaafc70a82fb6c8859bddca7ea9dde6b9"
+        }
+      },
+      {
+        "unit": "OC-73090806",
+        "family": "T2",
+        "seed": 73090806,
+        "binding": {
+          "manifest": "0c40ba9e555cbf5876b37196bafa45bbfde20aa8119276b0dc0402619822b37e",
+          "payload": "9bf2ee0962940166be3178f603160d73a301a760b81d2db5b40ffeb7877e73f8",
+          "initial_planes": "c7f008fea1c945afe63f0658743f4fc59881320b9944473945632df69a15cdce",
+          "initial_state": "bad864dbe8451e34831341c70bb6e73fd3e3eb32429f694e7a9cf251fc7ff788"
+        }
+      }
+    ],
+    "perfect_state": true
+  },
+  "forecast_scope": {
+    "oracle": true,
+    "future_parameter_trajectory_exact": true,
+    "available_future_interval_seconds": [
+      0,
+      660
+    ],
+    "used_query_interval_seconds": [
+      180,
+      380
+    ],
+    "TI": 0.05,
+    "full_turbulent_field_not_used_by_LUT": true
+  },
+  "controller_scope": {
+    "executed": false
+  },
+  "source_scope": {
+    "bound_files": {
+      "audit/paper2_net_energy_final_freeze_20260910/verify_review.py": "ca48aa5cfd6e5dedf463489d671085bd9aa425056ddbe373556ca09a54de7485",
+      "audit/paper2_net_energy_final_freeze_20260910/REMOTE_SEAL.json": "f95b497f5586731d74b2e05a7f0de6bed2c0b042b20785742998ba7a9a5e5e75"
+    }
+  },
+  "input_scope": {
+    "review_archive_sha256": "ee624e3f83a9cd076d74d35721b8c6b36931dccb0b3c2a31a14d1249659cbefe"
+  },
+  "resource_scope": {
+    "host": "local CPU",
+    "gpu": null,
+    "maximum_minutes": 5
+  },
+  "b1pstar_runtime_role": "not_used",
+  "fallback_policy": "not_applicable",
+  "b1pstar_in_objective": false,
+  "b1pstar_in_regularizer": false,
+  "b1pstar_in_warm_start": false,
+  "b1pstar_in_terminal_condition": false,
+  "b1pstar_in_candidate_selection": false,
+  "b1pstar_in_supervisor": false,
+  "b1pstar_in_fallback": false,
+  "b1pstar_in_command_formation": false,
+  "experiment_id": "NET-ENERGY-FINAL-FREEZE-VALIDATION-20260910",
+  "experiment_role": "computational_support"
+}

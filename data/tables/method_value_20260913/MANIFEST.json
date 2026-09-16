@@ -1,0 +1,15 @@
+{
+  "sources": {
+    "audit/executions/re_method_value_20260913/analysis/RESULT.json": "bdd3e0524f2a5b363488f68247f25b4618752d6f19b8409639fb36feb3acec11",
+    "audit/executions/re_method_value_20260913/analysis/ADJUDICATION.json": "112f04635566f293c0bc57ee61f4606bc163927e5b06a9426a5065c99383554d",
+    "audit/executions/re_method_value_20260913/STAGE_SETTLEMENT.json": "0fa5ba42dc8bed11f7bc8e73d7b688dbaed0ad301cbf4c91ccc92de33e899dcd",
+    "audit/executions/re_method_value_20260913/E0_E1_E2_complete.tar.gz": "05d2ba50407775587c434fc6860f2ad88d0faa17e454a90fcaae96acc43cb5e7"
+  },
+  "outputs": {
+    "BRANCH_ACCOUNTS.csv": "8998e586683f9638aa2650ab10583c45d4b18ae0938bf3a8917c644985df3a01",
+    "DECISION_INPUT_MAP.csv": "5eb509066176193019058972ff5f27211ee84491e1fd41db4396d1144bc116f3",
+    "EXECUTION_LEDGER.csv": "4c2e59ceda34505dea2e5cdda6f7f7f59f761f85153a89f424395e099409d6d4",
+    "PAIRED_VALUES.csv": "cb71a62c4598f7f3a2e03648e3678c2ee97244fb513ac3c395c0e3a5781e868f"
+  },
+  "evidence_class": "exposed-root fixed-state diagnostic and failed execution-model qualification"
+}

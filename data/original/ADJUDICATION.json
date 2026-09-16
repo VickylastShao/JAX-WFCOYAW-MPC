@@ -1,0 +1,11 @@
+{
+  "authorized_to_launch": true,
+  "experiment_id": "NET-ENERGY-FINAL-FREEZE-VALIDATION-20260910",
+  "experiment_role": "computational_support",
+  "purpose": "paper2_pure_les_mpc_preexperiment_alignment_adjudication",
+  "research_mainline_path": "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/PAPER2_PURE_LES_MPC_RESEARCH_MAINLINE_FREEZE_20260901.json",
+  "research_mainline_sha256": "3244468589a890f32d93e01142af8e7e7b8f4ebd450b960ee67254242d81161b",
+  "schema_version": 1,
+  "status": "pass",
+  "violations": []
+}

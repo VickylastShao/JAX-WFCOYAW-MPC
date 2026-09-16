@@ -1,0 +1,15 @@
+{
+  "source_archive": "audit/executions/re_focused_implementation_20260914/C_REMOTE_DELIVERY.zip",
+  "source_archive_sha256": "5ee55e89dac643a13a49a7110b4115d0b22b812038dba60008e5aedb61cb1941",
+  "generator": "paper/tools/prepare_results.py --focused-value-dir ... --focused-value-output ...",
+  "generator_module_sha256": "150410505935ab2174f1ab9b804a645746cab4246a36cdcc386ba7c5b447c25d",
+  "scoring_adjudication": "audit/executions/re_focused_implementation_20260914/C4_ADJUDICATION.json",
+  "output_sha256": {
+    "ADJUDICATION.json": "28b85dc664c6a2feaee5ff82eaf1bac9963bfe055b2f06d33538541f1710743f",
+    "BRANCH_ACCOUNTS.csv": "c0184b7ea2c27a51437dd7e43236e6c4f6a5be902678a98292acf647b97c5bf1",
+    "LOCAL_VALUE.csv": "cf5b935ca3a415fa1457cfc30b44e04261d178d572e0e8b5d161833a62b781b1",
+    "RECOVERY_FIDELITY.csv": "f5fe6592e3504e21f68e287b80c58f8b84763ab5389cf29a48d8965bbe08bda5",
+    "REPRODUCTION.json": "fd16cce2a986f96585e3f06defb09ecd023a1362f76b225083737aa6b01f7abf",
+    "RESULT.json": "87c37aa6eac61b72f32c1b7cbf7e043f595ee6f33fb9bf370060c342ee697b09"
+  }
+}

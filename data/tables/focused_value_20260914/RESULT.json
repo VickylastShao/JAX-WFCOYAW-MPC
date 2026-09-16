@@ -1,0 +1,23 @@
+{
+  "status": "pass",
+  "roots": 2,
+  "states": 8,
+  "branches": 32,
+  "window_contrasts": 16,
+  "classification_counts": {
+    "200": {
+      "predicted_not_resolved_positive": 2,
+      "preserved_positive": 3,
+      "reversal": 3
+    },
+    "480": {
+      "predicted_not_resolved_positive": 0,
+      "preserved_positive": 5,
+      "reversal": 3
+    }
+  },
+  "independent_units": "two outcome-exposed precursor roots; states/scenarios/windows are correlated",
+  "F2_pooled": false,
+  "max_table_trace_error_tolerance": 1e-09,
+  "inputs_manifest_sha256": "ebfe48eb93f6c7dc02ad474a1aa1c8d575abf4863cd2f22b4f8928d965c7d38b"
+}

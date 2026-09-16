@@ -1,0 +1,5142 @@
+{
+  "adjudication": {
+    "status": "technical_pass_only",
+    "net_energy_adjudication": "separate postprocessing",
+    "independent_confirmation": false,
+    "causal_forecast_claim": false
+  },
+  "pairs": [
+    {
+      "cell": "OC-73090801__T1",
+      "mpc_mwh": 5.508637218869792,
+      "noyaw_mwh": 5.417772648840278,
+      "technical_pass": true,
+      "main_mpc_mwh": 4.7202614479097225,
+      "main_noyaw_mwh": 4.640333228621528,
+      "tail_mpc_mwh": 0.7883757709600695,
+      "tail_noyaw_mwh": 0.7774394202187501,
+      "row_mpc_mwh": [
+        2.8407521580034722,
+        1.2547482623116322,
+        1.4131367985546874
+      ],
+      "row_noyaw_mwh": [
+        2.9085460263750003,
+        1.1897099920277778,
+        1.3195166304375
+      ],
+      "yaw_travel_deg": 184.3291172683239,
+      "yaw_reversals": 37,
+      "maximum_abs_yaw_deg": 15.807321548461914,
+      "maximum_yaw_rate_deg_per_s": 0.3000020980834961,
+      "saturation_fraction": 0.0,
+      "max_controller_seconds": 153.4444956718944,
+      "initial_state_sha256": "7ee65945f6496dc5f91b8ed191a82b452463dae6e0862f42134e5c26d6e0ddb0",
+      "mpc_final_state_sha256": "2847ea18fd990677f9ad6901c563e492066a095c05e4760ee9b3004a1dc58f5f",
+      "noyaw_final_state_sha256": "ce4bd72b54a6d484bdba84b46cc08b8772846a34aa7bf0e748d73966d9979c5e"
+    },
+    {
+      "cell": "OC-73090801__T2",
+      "mpc_mwh": 7.051533751314237,
+      "noyaw_mwh": 6.982919066376737,
+      "technical_pass": true,
+      "main_mpc_mwh": 5.858588355371528,
+      "main_noyaw_mwh": 5.810334181213542,
+      "tail_mpc_mwh": 1.1929453959427083,
+      "tail_noyaw_mwh": 1.1725848851631944,
+      "row_mpc_mwh": [
+        3.096310166579861,
+        1.890263248123264,
+        2.064960336611111
+      ],
+      "row_noyaw_mwh": [
+        3.1173446622534726,
+        1.8604786954913195,
+        2.0050957086319445
+      ],
+      "yaw_travel_deg": 212.82295060157776,
+      "yaw_reversals": 31,
+      "maximum_abs_yaw_deg": 11.514562606811523,
+      "maximum_yaw_rate_deg_per_s": 0.3000020980834961,
+      "saturation_fraction": 0.0,
+      "max_controller_seconds": 152.59249575808644,
+      "initial_state_sha256": "5a9be8611dddfee64ac85865f0dd1e717f1559601e20d5b1778ff50981b4aa0f",
+      "mpc_final_state_sha256": "7d979584a766bfce12c4dd4b2313e951b9bce32e744db5325bf69a398bf1544d",
+      "noyaw_final_state_sha256": "a7afd7aae7fec2a1041299447edcb1dba9144eb29334f8170beeedc618026a6a"
+    },
+    {
+      "cell": "OC-73090802__T1",
+      "mpc_mwh": 5.550602167453993,
+      "noyaw_mwh": 5.464953123126737,
+      "technical_pass": true,
+      "main_mpc_mwh": 4.656817613036459,
+      "main_noyaw_mwh": 4.600670107048611,
+      "tail_mpc_mwh": 0.8937845544175348,
+      "tail_noyaw_mwh": 0.8642830160781251,
+      "row_mpc_mwh": [
+        2.941861402685764,
+        1.2164524812682291,
+        1.3922882835000001
+      ],
+      "row_noyaw_mwh": [
+        2.979930419633681,
+        1.164894483873264,
+        1.3201282196197919
+      ],
+      "yaw_travel_deg": 216.1289600133896,
+      "yaw_reversals": 30,
+      "maximum_abs_yaw_deg": 11.881559371948242,
+      "maximum_yaw_rate_deg_per_s": 0.3000020980834961,
+      "saturation_fraction": 0.0,
+      "max_controller_seconds": 152.74185651587322,
+      "initial_state_sha256": "528eb6eaac868b026c1e8678b4871fd69e265a15dfc56707b6217cedbfb538a5",
+      "mpc_final_state_sha256": "f57970073c4566a5e4bc4e4ef76f3be3d9b76be9712ac317750eded78851a9cd",
+      "noyaw_final_state_sha256": "5967b90d6bba6e1fb2f3006970b3f286e4b1d462f47b4ffa654ab7073f2415f3"
+    },
+    {
+      "cell": "OC-73090802__T2",
+      "mpc_mwh": 6.963301148592015,
+      "noyaw_mwh": 6.8739715740902785,
+      "technical_pass": true,
+      "main_mpc_mwh": 5.6389326400260416,
+      "main_noyaw_mwh": 5.588698957083333,
+      "tail_mpc_mwh": 1.3243685085659724,
+      "tail_noyaw_mwh": 1.2852726170069446,
+      "row_mpc_mwh": [
+        3.1165519692777783,
+        1.8391934695243057,
+        2.007555709789931
+      ],
+      "row_noyaw_mwh": [
+        3.1486516150138892,
+        1.7947163426927084,
+        1.9306036163836808
+      ],
+      "yaw_travel_deg": 222.50164484977722,
+      "yaw_reversals": 33,
+      "maximum_abs_yaw_deg": 13.639911651611328,
+      "maximum_yaw_rate_deg_per_s": 0.3000020980834961,
+      "saturation_fraction": 0.0,
+      "max_controller_seconds": 152.5827894322574,
+      "initial_state_sha256": "37cf763e462f31d57cf3f752c7a4d7a10daa0f5a808a1afa240efdb20dcc91f4",
+      "mpc_final_state_sha256": "21ac25e18642f2d2fd0ec0aba258ec82af21a7e0be37a5ed8897c47419291970",
+      "noyaw_final_state_sha256": "b55cf6724d821edab0a37d5fa6bfd4118bc89df7e0ee69b0275444e00c04acd1"
+    },
+    {
+      "cell": "OC-73090803__T1",
+      "mpc_mwh": 5.4001491320442705,
+      "noyaw_mwh": 5.347566673059895,
+      "technical_pass": true,
+      "main_mpc_mwh": 4.6095664797569444,
+      "main_noyaw_mwh": 4.564622710975694,
+      "tail_mpc_mwh": 0.7905826522873264,
+      "tail_noyaw_mwh": 0.7829439620842015,
+      "row_mpc_mwh": [
+        2.838006591206597,
+        1.1844460167013888,
+        1.3776965241362846
+      ],
+      "row_noyaw_mwh": [
+        2.864002474595486,
+        1.1576208471484375,
+        1.3259433513159722
+      ],
+      "yaw_travel_deg": 200.434507727623,
+      "yaw_reversals": 40,
+      "maximum_abs_yaw_deg": 11.382219314575195,
+      "maximum_yaw_rate_deg_per_s": 0.3000020980834961,
+      "saturation_fraction": 0.0,
+      "max_controller_seconds": 152.5701698679477,
+      "initial_state_sha256": "97a30872e117e37b7a2a5af0e5cd5344f72ddf450c00c1e60eab4461af2f3516",
+      "mpc_final_state_sha256": "667b8d4246e904b3513513c2b52208928f5ed996b89f35ae380ee57cd2f03a21",
+      "noyaw_final_state_sha256": "385849f9d593582e76c3f4aae9a2c4beca46f16ca16136577251bfa09d2917e6"
+    },
+    {
+      "cell": "OC-73090803__T2",
+      "mpc_mwh": 7.031420128942709,
+      "noyaw_mwh": 6.969184470836805,
+      "technical_pass": true,
+      "main_mpc_mwh": 5.858786738840278,
+      "main_noyaw_mwh": 5.800233046069445,
+      "tail_mpc_mwh": 1.1726333901024306,
+      "tail_noyaw_mwh": 1.1689514247673611,
+      "row_mpc_mwh": [
+        3.1074241045798616,
+        1.8190329360659723,
+        2.1049630882968753
+      ],
+      "row_noyaw_mwh": [
+        3.1160153525312504,
+        1.802482880592014,
+        2.0506862377135415
+      ],
+      "yaw_travel_deg": 216.17377361655235,
+      "yaw_reversals": 28,
+      "maximum_abs_yaw_deg": 10.904474258422852,
+      "maximum_yaw_rate_deg_per_s": 0.3000020980834961,
+      "saturation_fraction": 0.0,
+      "max_controller_seconds": 152.57111736712977,
+      "initial_state_sha256": "1cc6fe816d6f802ed3d574814246b583bd3c46c6bcdf11a2d1a5e455d0535a9c",
+      "mpc_final_state_sha256": "948c17a225ff721a99c834330000330271b10f2eedecb07c847c8b6f63a227e3",
+      "noyaw_final_state_sha256": "f4053f5a3c03531fad653a470b9e1e04fff900b43bcf7f6bd18177bd842b2196"
+    },
+    {
+      "cell": "OC-73090804__T1",
+      "mpc_mwh": 5.6193865363975695,
+      "noyaw_mwh": 5.545732280914063,
+      "technical_pass": true,
+      "main_mpc_mwh": 4.7989962373203126,
+      "main_noyaw_mwh": 4.727113888905382,
+      "tail_mpc_mwh": 0.820390299077257,
+      "tail_noyaw_mwh": 0.8186183920086806,
+      "row_mpc_mwh": [
+        2.933267937545139,
+        1.2531666750972223,
+        1.4329519237552084
+      ],
+      "row_noyaw_mwh": [
+        2.9679933990034724,
+        1.2205891880920139,
+        1.3571496938185763
+      ],
+      "yaw_travel_deg": 173.1250433921814,
+      "yaw_reversals": 37,
+      "maximum_abs_yaw_deg": 11.83336067199707,
+      "maximum_yaw_rate_deg_per_s": 0.3000020980834961,
+      "saturation_fraction": 0.0,
+      "max_controller_seconds": 152.56165566900745,
+      "initial_state_sha256": "d6e6ccbea7d9923277575614f1ff7558adbaa631b6acba5ef241d072fd8d1325",
+      "mpc_final_state_sha256": "86df800b9ec31d2bd486d09b3ad9d1230a3bd307b7a8bce077c9c9f3baaf37c7",
+      "noyaw_final_state_sha256": "0955a25a01db9ee10e0f1bd2023a777703ab70aefe9b66fe08a4a56f6376b1f8"
+    },
+    {
+      "cell": "OC-73090804__T2",
+      "mpc_mwh": 7.061608744574653,
+      "noyaw_mwh": 6.980418474281251,
+      "technical_pass": true,
+      "main_mpc_mwh": 5.79275689508507,
+      "main_noyaw_mwh": 5.733854122359375,
+      "tail_mpc_mwh": 1.2688518494895835,
+      "tail_noyaw_mwh": 1.246564351921875,
+      "row_mpc_mwh": [
+        3.1309388167222223,
+        1.880236122545139,
+        2.050433805307292
+      ],
+      "row_noyaw_mwh": [
+        3.144784816854167,
+        1.850277964060764,
+        1.9853556933663197
+      ],
+      "yaw_travel_deg": 232.04093803465366,
+      "yaw_reversals": 34,
+      "maximum_abs_yaw_deg": 10.726507186889648,
+      "maximum_yaw_rate_deg_per_s": 0.3000020980834961,
+      "saturation_fraction": 0.0,
+      "max_controller_seconds": 152.55767135880888,
+      "initial_state_sha256": "1f76f704c3ac0e6fb0ce9a4d6e73e5e24f7b0bd0a7d35712715402a55eb1a443",
+      "mpc_final_state_sha256": "60c7e1872126c0bba9043c33be31e4ced1066bcd04491aab46ed5e762bf58766",
+      "noyaw_final_state_sha256": "f2b56b13aff165bf169ba059ef383fa85d01dfbf2a530f4d25629150ae56d836"
+    },
+    {
+      "cell": "OC-73090805__T1",
+      "mpc_mwh": 5.431835334398438,
+      "noyaw_mwh": 5.321268613516493,
+      "technical_pass": true,
+      "main_mpc_mwh": 4.5973487870182295,
+      "main_noyaw_mwh": 4.497216128509549,
+      "tail_mpc_mwh": 0.8344865473802084,
+      "tail_noyaw_mwh": 0.8240524850069445,
+      "row_mpc_mwh": [
+        2.7696879688125002,
+        1.2327359301987846,
+        1.4294114353871528
+      ],
+      "row_noyaw_mwh": [
+        2.855172783076389,
+        1.1574742623151042,
+        1.308621568125
+      ],
+      "yaw_travel_deg": 183.26010555028915,
+      "yaw_reversals": 35,
+      "maximum_abs_yaw_deg": 15.668314933776855,
+      "maximum_yaw_rate_deg_per_s": 0.3000020980834961,
+      "saturation_fraction": 0.0,
+      "max_controller_seconds": 152.54070317884907,
+      "initial_state_sha256": "a7aa726a528d4d4bf120c016924e1b8c41f96a8c8e7f7cba1ea68eca2c1aa9c6",
+      "mpc_final_state_sha256": "955aca2e2fb2781116d3f1ca480e20861686f097155d8dd149af843a0bebdf0e",
+      "noyaw_final_state_sha256": "6052c8b8f9d11f1c674bfd30f8055ec7e81546c024680acc338ccfc9a7652d61"
+    },
+    {
+      "cell": "OC-73090805__T2",
+      "mpc_mwh": 6.788958147467015,
+      "noyaw_mwh": 6.735214274342015,
+      "technical_pass": true,
+      "main_mpc_mwh": 5.548590177064237,
+      "main_noyaw_mwh": 5.50391542784375,
+      "tail_mpc_mwh": 1.2403679704027777,
+      "tail_noyaw_mwh": 1.231298846498264,
+      "row_mpc_mwh": [
+        3.0382275446145837,
+        1.742935869355903,
+        2.007794733496528
+      ],
+      "row_noyaw_mwh": [
+        3.046968735805556,
+        1.723616636076389,
+        1.9646289024600696
+      ],
+      "yaw_travel_deg": 229.52973622083664,
+      "yaw_reversals": 28,
+      "maximum_abs_yaw_deg": 10.838065147399902,
+      "maximum_yaw_rate_deg_per_s": 0.3000020980834961,
+      "saturation_fraction": 0.0,
+      "max_controller_seconds": 152.5292809922248,
+      "initial_state_sha256": "af56c9d0864a1e4fedf16765a1525cf24b707a034c7bf263e1df91527a5864f5",
+      "mpc_final_state_sha256": "e9ad16be2f8e324883aae93c428b82c4bfc1165ef574375129231e07bfa9dd63",
+      "noyaw_final_state_sha256": "819f2e94ca6b9e933720a6553c7dad3d8e528016e3622a19585e49293cdf197f"
+    },
+    {
+      "cell": "OC-73090806__T1",
+      "mpc_mwh": 5.229549842884549,
+      "noyaw_mwh": 5.171473301261285,
+      "technical_pass": true,
+      "main_mpc_mwh": 4.439636207266493,
+      "main_noyaw_mwh": 4.389978238920139,
+      "tail_mpc_mwh": 0.7899136356180556,
+      "tail_noyaw_mwh": 0.781495062341146,
+      "row_mpc_mwh": [
+        2.673721501996528,
+        1.1852651914765626,
+        1.3705631494114585
+      ],
+      "row_noyaw_mwh": [
+        2.7027737380277777,
+        1.1555594291631945,
+        1.3131401340703124
+      ],
+      "yaw_travel_deg": 198.64772573113441,
+      "yaw_reversals": 35,
+      "maximum_abs_yaw_deg": 11.873159408569336,
+      "maximum_yaw_rate_deg_per_s": 0.3000020980834961,
+      "saturation_fraction": 0.0,
+      "max_controller_seconds": 152.5336545407772,
+      "initial_state_sha256": "0b351c717b95776ee32cba43e93a5c6aaafc70a82fb6c8859bddca7ea9dde6b9",
+      "mpc_final_state_sha256": "5b9d27ee6926b6f5135a99992c89d9eef8c7f8ff2a46578b172cb63118213290",
+      "noyaw_final_state_sha256": "3ffb2cce0fef2a5b63d9456269af5f403b17556d9d00bfbf9a02868d94a241da"
+    },
+    {
+      "cell": "OC-73090806__T2",
+      "mpc_mwh": 6.8453911230156255,
+      "noyaw_mwh": 6.791682378918403,
+      "technical_pass": true,
+      "main_mpc_mwh": 5.642017304118056,
+      "main_noyaw_mwh": 5.5997536031093755,
+      "tail_mpc_mwh": 1.2033738188975693,
+      "tail_noyaw_mwh": 1.1919287758090278,
+      "row_mpc_mwh": [
+        2.9236987059305557,
+        1.8468803650572918,
+        2.0748120520277777
+      ],
+      "row_noyaw_mwh": [
+        2.9281359079548612,
+        1.8308951045850697,
+        2.0326513663784724
+      ],
+      "yaw_travel_deg": 209.37726420164108,
+      "yaw_reversals": 33,
+      "maximum_abs_yaw_deg": 10.981688499450684,
+      "maximum_yaw_rate_deg_per_s": 0.3000020980834961,
+      "saturation_fraction": 0.0,
+      "max_controller_seconds": 152.51557154022157,
+      "initial_state_sha256": "bad864dbe8451e34831341c70bb6e73fd3e3eb32429f694e7a9cf251fc7ff788",
+      "mpc_final_state_sha256": "1b737982a515c479c9d0f2a7b365c2d73e2310c851f1d8506776769bebb418ae",
+      "noyaw_final_state_sha256": "151e0ffc9d3cb338eed5407e3f9e8243e5f413f2a7398ee86da30ba5ea21c242"
+    }
+  ],
+  "timing": [
+    {
+      "kind": "JIT",
+      "key": "initialize",
+      "seconds": 14.154475529212505
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "initialize",
+      "seconds": 5.571691202931106
+    },
+    {
+      "kind": "JIT",
+      "key": "controller_H480",
+      "seconds": 42.06459094025195
+    },
+    {
+      "kind": "JIT",
+      "key": "plant900",
+      "seconds": 5.181567627936602
+    },
+    {
+      "kind": "JIT",
+      "key": "plant100",
+      "seconds": 5.49445246020332
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.322195303160697
+    },
+    {
+      "kind": "JIT",
+      "key": "diagnostics900",
+      "seconds": 1.496375286951661
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.002899100072681904
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.26530722016468644
+    },
+    {
+      "kind": "JIT",
+      "key": "diagnostics100",
+      "seconds": 1.0498901926912367
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.002789827063679695
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3134964741766453
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008076070807874203
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25841998122632504
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005733948200941086
+    },
+    {
+      "kind": "JIT",
+      "key": "plant2400",
+      "seconds": 5.121343520935625
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.175365764182061
+    },
+    {
+      "kind": "JIT",
+      "key": "diagnostics2400",
+      "seconds": 1.0620390055701137
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0033357632346451283
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3153279102407396
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0012875418178737164
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2596820229664445
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.001051757950335741
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.312023331876844
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006425878964364529
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25691178580746055
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006381459534168243
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.312864715233445
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009849611669778824
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25782317901030183
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008812472224235535
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3133928310126066
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006391401402652264
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2573502310551703
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005034282803535461
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314899120014161
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009484603069722652
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25769576290622354
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000880782026797533
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3129638875834644
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006418772973120213
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25748291704803705
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005958597175776958
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.318633735179901
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010013249702751637
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2582707260735333
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0007658712565898895
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3142772461287677
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006563849747180939
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2571962741203606
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006417441181838512
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3145259767770767
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009822598658502102
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2575853248126805
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008607227355241776
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3133254987187684
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006671189330518246
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25717944372445345
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006091208197176456
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314908980857581
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009922590106725693
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25786506989970803
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0007519181817770004
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3127955640666187
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006236475892364979
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2572822910733521
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006369282491505146
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3104351912625134
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008974242955446243
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2578703542239964
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009598745964467525
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314572411123663
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0007378067821264267
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25747911212965846
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006271097809076309
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3143490557558835
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.001157156191766262
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2582069910131395
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009966697543859482
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.312650025356561
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006673666648566723
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25718989223241806
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006269537843763828
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.199949464295059
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0017876280471682549
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.165833723731339
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0007885219529271126
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "initialize",
+      "seconds": 5.552131911739707
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.31718273088336
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0011081239208579063
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2576358700171113
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008805207908153534
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3165506650693715
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006883591413497925
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2575781149789691
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000530783087015152
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.164321054238826
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0009654420427978039
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3159830537624657
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.00104140629991889
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.258447356056422
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009061633609235287
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.316056848037988
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006835591048002243
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2576523250900209
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006154780276119709
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3166129421442747
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0007711290381848812
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2579824789427221
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000763406977057457
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.313163973391056
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0007681399583816528
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2574465670622885
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006996039301156998
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.31509948708117
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010141320526599884
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25822192104533315
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009493636898696423
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3164785471744835
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0007023094221949577
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25728418538346887
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000624342355877161
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3154280818998814
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009735971689224243
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2578264279291034
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008722417987883091
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3142322339117527
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006382702849805355
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25732916593551636
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005769850686192513
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3152903793379664
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009405072778463364
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2579650110565126
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008305036462843418
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3137932159006596
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006783599965274334
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25731657491996884
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006164838559925556
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.315135621931404
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009975568391382694
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.257623182144016
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008880649693310261
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3131621619686484
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006264853291213512
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25700609711930156
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000606355257332325
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3160654311068356
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009162989445030689
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2581796869635582
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008372599259018898
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.31445501325652
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005917432717978954
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25742026790976524
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005535800009965897
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3147037769667804
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008098599500954151
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25735643366351724
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009179841727018356
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3151086140424013
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005264757201075554
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2570798057131469
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005903430283069611
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.200240775942802
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0016285357996821404
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.161549596115947
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0005340138450264931
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "initialize",
+      "seconds": 5.541842914652079
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3138519669882953
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008998909033834934
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2579769901931286
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009486419148743153
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.315328170079738
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006724060513079166
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25742344465106726
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005186670459806919
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.157341183163226
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0009050890803337097
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3169384142383933
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009983647614717484
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25809791032224894
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009065321646630764
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3136259708553553
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006422922015190125
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2572997440584004
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005998099222779274
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314518867060542
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010715648531913757
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2581623578444123
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009605051018297672
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3146560681052506
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0007122140377759933
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25770308496430516
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006127869710326195
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3138757618144155
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009858612902462482
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25792111875489354
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009108972735702991
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314495063852519
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006993971765041351
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25741642573848367
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006172070279717445
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3141538528725505
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009377999231219292
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2579557937569916
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0007393197156488895
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3141944683156908
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006134412251412868
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2573136710561812
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006822608411312103
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.315718269906938
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009281402453780174
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2578330347314477
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008480651304125786
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3136507403105497
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008331099525094032
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2571641537360847
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005433992482721806
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3152682543732226
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0007768562063574791
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25799534004181623
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008254600688815117
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3146846061572433
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000551310833543539
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25758063001558185
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006509339436888695
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314891144167632
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000853812787681818
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2581035001203418
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008712941780686378
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3131138291209936
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006643119268119335
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2573480769060552
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005028550513088703
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3160808961838484
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0007648840546607971
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25788989616557956
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008519482798874378
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3120653512887657
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006965519860386848
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25719795981422067
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006161602213978767
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.194083119742572
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0017245491035282612
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.165542752016336
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0005876473151147366
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "initialize",
+      "seconds": 5.542832760605961
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314607305917889
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008812271989881992
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25798297207802534
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009277872741222382
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.313983482774347
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006558448076248169
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25724388007074594
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005520251579582691
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.164359339047223
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.00090045016258955
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3143899338319898
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010125203989446163
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25802898686379194
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000927336048334837
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3119027139618993
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000724520068615675
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25707561895251274
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006255903281271458
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3133759312331676
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009418162517249584
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25775337824597955
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009097959846258163
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3122138790786266
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006412067450582981
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25727230310440063
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006159469485282898
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3129864470101893
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009771897457540035
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25754615385085344
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008291900157928467
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3111844398081303
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005270759575068951
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2568457378074527
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006091902032494545
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.316757113672793
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000966944731771946
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25802647788077593
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009206817485392094
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3163290093652904
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0007428140379488468
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2575498027727008
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005542300641536713
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.313712963834405
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009911321103572845
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25801391201093793
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008191009983420372
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3124942472204566
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006260578520596027
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.257375868037343
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000542215071618557
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3172656460665166
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009570610709488392
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2581401029601693
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009175259619951248
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314199196174741
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005263360217213631
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25738291209563613
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006009167991578579
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.31474527483806
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009847618639469147
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25778939202427864
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009080283343791962
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.311849341262132
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005641472525894642
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25701738335192204
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000564920250326395
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3170210900716484
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000848227646201849
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2580163008533418
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008359402418136597
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3155958908610046
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005444427952170372
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2572497548535466
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005167829804122448
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.201564442366362
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0017799148336052895
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.168119553010911
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0005479059182107449
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "initialize",
+      "seconds": 5.553252715151757
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3146199858747423
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009855879470705986
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2582856332883239
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000890886876732111
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3142989040352404
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006246250122785568
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2574449861422181
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005943309515714645
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.171273502055556
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0009214999154210091
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.315948978997767
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009802072308957577
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25793355889618397
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009090127423405647
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.315150273963809
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006581507623195648
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2569275442510843
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006120721809566021
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3163127009756863
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009882589802145958
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2581234588287771
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008893371559679508
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3135601370595396
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006355252116918564
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2576635451987386
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006064102053642273
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3133688396774232
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010110121220350266
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2575094969943166
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000772424042224884
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.313805756624788
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005367938429117203
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25707443011924624
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006618262268602848
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3164598112925887
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000983778852969408
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25774191226810217
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0007650949992239475
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3139992030337453
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000545854214578867
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2575096576474607
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0004949220456182957
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.319756703916937
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009709256701171398
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2576908371411264
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008975169621407986
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.316522986162454
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006529763340950012
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25777310924604535
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005939798429608345
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314931819215417
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009661521762609482
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2583063459023833
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008929907344281673
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.313727229833603
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006240550428628922
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2572329184040427
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006242357194423676
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.316015822812915
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.00101899029687047
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2580172549933195
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0007496802136301994
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.312678823713213
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000545920804142952
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25756454607471824
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0007080240175127983
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3167586806230247
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000940276775509119
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2578729479573667
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009282669052481651
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3151092217303813
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005331081338226795
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2574405698105693
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005393601022660732
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.203843686264008
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0016871471889317036
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.158602926880121
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0006689839065074921
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "initialize",
+      "seconds": 5.546228246297687
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3170911041088402
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009788679890334606
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2579072373919189
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008235941641032696
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.316227115225047
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000625228974968195
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25745954271405935
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005076131783425808
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.160811700858176
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0008882819674909115
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.313589408993721
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008968999609351158
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25789107382297516
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009063403122127056
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3132989397272468
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006314059719443321
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25723220594227314
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005893190391361713
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.318326758220792
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008461978286504745
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25802384316921234
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0007433798164129257
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3150972882285714
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006713778711855412
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2575268680229783
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000515342690050602
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3170043020509183
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009701913222670555
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25794733921065927
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009176577441394329
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3103157146833837
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005609677173197269
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2572057540528476
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005998210981488228
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314122226089239
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008684308268129826
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2583102057687938
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008239224553108215
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3141519520431757
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.00065184710547328
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25704794097691774
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006016809493303299
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.315105793066323
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010242220014333725
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25796555913984776
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009749680757522583
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3144203051924706
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0007166517898440361
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2572140102274716
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005270051769912243
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.315934015903622
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009640627540647984
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25821096170693636
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008999709971249104
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314422487746924
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000625859946012497
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2577420901507139
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005867453292012215
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3154927222058177
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009551839902997017
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2580401827581227
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008379030041396618
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314213863108307
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006791721098124981
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.257055439054966
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006374758668243885
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.316537442151457
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009948168881237507
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25829893024638295
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0007372237741947174
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3156052380800247
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005728872492909431
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2575331199914217
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000589239876717329
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.209003111347556
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0016709710471332073
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.166740200016648
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.000692449975758791
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "initialize",
+      "seconds": 5.55233760504052
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314575131982565
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009628459811210632
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25773525331169367
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009118290618062019
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3144469461403787
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006330152973532677
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25732501596212387
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005051041953265667
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.1668003462255
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0009010429494082928
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.313153070397675
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009910361841320992
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2580274217762053
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009228726848959923
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3112719510681927
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005387240089476109
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2572077582590282
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005105347372591496
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314979088958353
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009657084010541439
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2580751529894769
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009171739220619202
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3113432130776346
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006343950517475605
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2571731358766556
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005934489890933037
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.313041313085705
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009741890244185925
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2578233480453491
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009101983159780502
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3137921397574246
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006350050680339336
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2572815278545022
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006238906644284725
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3127274848520756
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009762328118085861
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25778128392994404
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008972007781267166
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.313604871276766
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006349808536469936
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2575829951092601
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006117611192166805
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3147709029726684
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009540091268718243
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25760443322360516
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008198828436434269
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3122386718168855
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005502109415829182
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25736834621056914
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006288792937994003
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3127660830505192
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008493931964039803
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2579811247996986
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008347071707248688
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.315312618855387
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0007240143604576588
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2570518716238439
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006216899491846561
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3133724643848836
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009805518202483654
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2576537858694792
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0007380940951406956
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3132595429196954
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005328888073563576
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25726894522085786
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005105310119688511
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3152868230827153
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010148477740585804
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2578187361359596
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009054150432348251
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3122929357923567
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006840801797807217
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25727095594629645
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000609884038567543
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.197479231283069
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0017107222229242325
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.167306947987527
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0005590561777353287
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "initialize",
+      "seconds": 5.54506873479113
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.316614125855267
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010047387331724167
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2580792186781764
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008864719420671463
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.313612283207476
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005444297567009926
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2576006418094039
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006149741820991039
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.1707150200381875
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0009176237508654594
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3172363620251417
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009619873017072678
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25775054283440113
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009085000492632389
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.313840912654996
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006532128900289536
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25736196571961045
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006046169437468052
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3135494692251086
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000805538147687912
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25780511600896716
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0007535964250564575
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314311432186514
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0007131220772862434
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2572854422032833
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006681149825453758
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314228864852339
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010299389250576496
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25810702983289957
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008964939042925835
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3142980593256652
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006940937601029873
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25753299286589026
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000613474752753973
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3149780579842627
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009507378563284874
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25782965403050184
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0007560658268630505
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314843188971281
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005426360294222832
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.257216886151582
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006853248924016953
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3174378722906113
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000979442149400711
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25798511831089854
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009255502372980118
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3131726728752255
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006403992883861065
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25721515296027064
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006138989701867104
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314304590690881
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008813799358904362
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25789416301995516
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008532358333468437
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3149063871242106
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000548012088984251
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2571485382504761
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006441269069910049
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3149394439533353
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.001009467989206314
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2578033390454948
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008993148803710938
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3135625482536852
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005321521311998367
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25740404706448317
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006089289672672749
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3145511550828815
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010392740368843079
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2582450699992478
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000895471777766943
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3147522900253534
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006012530066072941
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25728692999109626
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006349687464535236
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.201126859989017
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.002342717722058296
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.161499502602965
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0006096521392464638
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "initialize",
+      "seconds": 5.548555769957602
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3167742076329887
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009900908917188644
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2578428373672068
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000857645645737648
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3156709210015833
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005684429779648781
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2573671159334481
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005281190387904644
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.170743602793664
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0009416327811777592
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.31684881914407
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010092132724821568
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2579665840603411
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000833301804959774
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3154028709977865
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005490048788487911
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25771136302500963
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000514972023665905
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3151048459112644
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009533963166177273
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25781832495704293
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009032818488776684
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.316223439294845
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000655952375382185
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2574117402546108
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006423541344702244
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314412849023938
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008451184257864952
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25817074812948704
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008356757462024689
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3150071101263165
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005783350206911564
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25771206011995673
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006675827316939831
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.315926486160606
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008432189933955669
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25772002805024385
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000842731911689043
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.315169104374945
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005376720800995827
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25735256308689713
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006420710124075413
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3174911639653146
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009989161044359207
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2582489619962871
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008381018415093422
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3177164089865983
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006237360648810863
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25745585979893804
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006223958916962147
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.31562228128314
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009674830362200737
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25776078924536705
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009185508824884892
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3143442696891725
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006467369385063648
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2573935189284384
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006089960224926472
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314515028614551
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008118613623082638
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2582220477052033
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009277611970901489
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.313674269709736
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000720667652785778
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25754109397530556
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006054616533219814
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3160403594374657
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009990343824028969
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25792331201955676
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0007509537972509861
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3142923689447343
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006678476929664612
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25730211893096566
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006069350056350231
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.20205390220508
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.001937375869601965
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.167200032155961
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0007294351235032082
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "initialize",
+      "seconds": 5.551116088870913
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3178580487146974
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010032551363110542
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2582507408224046
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009160097688436508
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.317880460061133
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005674008280038834
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25721901282668114
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.00051905307918787
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.167737596668303
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0009839711710810661
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3133824416436255
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009864750318229198
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.258181001059711
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009184000082314014
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.312188747804612
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006314213387668133
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25730946380645037
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005512349307537079
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.317839486990124
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009374003857374191
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2577671818435192
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008877869695425034
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.317057542037219
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006712381727993488
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25768940709531307
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006219940260052681
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.319032267201692
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008203629404306412
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25788027979433537
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008548800833523273
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.318690416868776
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006844522431492805
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2578310025855899
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005468549206852913
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.317390230949968
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008698869496583939
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2580819269642234
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008385120891034603
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3161557228304446
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005688006058335304
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2575112828053534
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005511976778507233
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3167463587597013
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009918780997395515
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25818583415821195
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008341027423739433
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.313284157309681
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006623589433729649
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2571541331708431
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006139306351542473
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.31545322900638
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009068557992577553
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2580467751249671
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008425000123679638
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.315119151957333
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.00053398497402668
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25758312083780766
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006316979415714741
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3153703580610454
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008726092055439949
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25767397694289684
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008284896612167358
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.315893896855414
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000734575092792511
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25729149393737316
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005533858202397823
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.316682791337371
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.001040767878293991
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.257829446811229
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009140148758888245
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3168926518410444
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005728127434849739
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2575685731135309
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006104917265474796
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.1978026810102165
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.002130894921720028
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.160912351217121
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0007601859979331493
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "initialize",
+      "seconds": 5.5515156630426645
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3182155629619956
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009545590728521347
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25807658210396767
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000830336008220911
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314678604248911
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0007187677547335625
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25762180471792817
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006522387266159058
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.168189567048103
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0009380890987813473
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.312568732071668
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010008015669882298
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25813722098246217
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008558291010558605
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3151700561866164
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005595991387963295
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2570372950285673
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005183471366763115
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314888286869973
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010830271057784557
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2578446138650179
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009369449689984322
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3146089538931847
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006499751470983028
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25765016907826066
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005416362546384335
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3167232060804963
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009713079780340195
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2577415690757334
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008118748664855957
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3159996061585844
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000681217759847641
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25750477565452456
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006203209049999714
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3135584560222924
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009595560841262341
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2582447729073465
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009940401650965214
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.313205094076693
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005547967739403248
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2574306190945208
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006286269053816795
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314963827840984
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010017952881753445
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25813818303868175
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008891476318240166
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314186402130872
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006316131912171841
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25757401203736663
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005960888229310513
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314597682096064
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009450409561395645
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2581442557275295
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0007922356016933918
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314944257028401
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.000543063972145319
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25739786121994257
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006666840054094791
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3165374300442636
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010127238929271698
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2580546638928354
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0007490967400372028
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.315712245181203
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005251253023743629
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25754718901589513
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005071270279586315
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3143740841187537
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008643730543553829
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25802468694746494
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008394159376621246
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.313652099110186
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006788279861211777
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2575215292163193
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005081747658550739
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.202334168832749
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.00166786415502429
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.161786389071494
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0006128340028226376
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "initialize",
+      "seconds": 5.545583167113364
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3162997816689312
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010152021422982216
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25800800928846
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.000838481355458498
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314965045079589
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005376809276640415
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2573332414031029
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005178730934858322
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.168898422271013
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0009676283225417137
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.311992677859962
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009610638953745365
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2579901572316885
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009043309837579727
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.310550009831786
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006886408664286137
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25701921386644244
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006205430254340172
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3150933869183064
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009356611408293247
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25795897003263235
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009527746587991714
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.313256423920393
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006384793668985367
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2574476138688624
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005086068995296955
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.310376343782991
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0007731840014457703
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25765072787180543
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009373440407216549
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3116356022655964
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005333642475306988
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25694888504222035
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006102146580815315
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.316111827734858
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008960948325693607
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2577347680926323
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008502951823174953
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.313689483795315
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005622459575533867
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25761204212903976
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005409987643361092
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3117385748773813
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0009444449096918106
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25774390809237957
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0008368617855012417
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.311051230877638
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006752959452569485
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2569822231307626
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0005282778292894363
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.316062184982002
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0007903040386736393
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2579916873946786
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009561050683259964
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.31571839004755
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0005284450016915798
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25724140787497163
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006023868918418884
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3092166180722415
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0010202298872172832
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25712467078119516
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0007456629537045956
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3088109279051423
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0006265537813305855
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25687223579734564
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006042900495231152
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.314974641893059
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0008811741136014462
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.2576109981164336
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0009499159641563892
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant900",
+      "seconds": 2.3138048448599875
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics900",
+      "seconds": 0.0007246234454214573
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant100",
+      "seconds": 0.25750818802043796
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics100",
+      "seconds": 0.0006104549393057823
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.2033988940529525
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.001935550943017006
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "plant2400",
+      "seconds": 6.168580872006714
+    },
+    {
+      "kind": "synchronized_execution",
+      "key": "diagnostics2400",
+      "seconds": 0.0005691130645573139
+    }
+  ],
+  "protocol_sha256": "47441fc30b6af9377fe0af6241bbd7397f4d405784d64e3fcdc35c194cd3f361",
+  "evidence_class": "ideal_preview_consistent_net_energy_revalidation_outcome_exposed"
+}

@@ -1,0 +1,15 @@
+family,time_s,maximum_abs_delta_Ux_m_s,mean_abs_delta_Ux_m_s,field_source
+T1,0,0.0,0.0,audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/FIELD_0000.npz
+T1,360,1.2673368453979492,0.03748775217464286,audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/FIELD_0360.npz
+T1,540,3.2782771587371826,0.1654482149301327,audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/FIELD_0540.npz
+T1,1140,5.386994361877441,0.3834227628517292,audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/FIELD_1140.npz
+T1,1320,5.400878190994263,0.3126341021365364,audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/FIELD_1320.npz
+T1,1800,4.416023015975952,0.2118991806375195,audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/FIELD_1800.npz
+T1,2280,3.4293017387390137,0.1962197778173767,audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T1/results/FIELD_2280.npz
+T2,0,0.0,0.0,audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/FIELD_0000.npz
+T2,360,1.2153429985046387,0.023405615060440615,audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/FIELD_0360.npz
+T2,540,2.096400260925293,0.08833600881450887,audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/FIELD_0540.npz
+T2,1140,2.9062490463256836,0.15283959940042785,audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/FIELD_1140.npz
+T2,1320,2.375204563140869,0.12950986800063194,audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/FIELD_1320.npz
+T2,1800,4.333141326904297,0.24992666753330203,audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/FIELD_1800.npz
+T2,2280,3.37302827835083,0.21406445888481168,audit/executions/re_strengthening_20260912/retrieved/fields_1612/FIELDS_K1_I4_T2/results/FIELD_2280.npz

@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "stdout": "{\n  \"status\": \"pass\",\n  \"created_utc\": \"2026-09-09T23:35:51.641388+00:00\",\n  \"file_count\": 405,\n  \"raw_bytes\": 1620720630,\n  \"manifest_sha256\": \"79ebe9f0809504bf89ada08f0aebe813930687c444a0792caba11d79cdf71fab\",\n  \"archives\": {\n    \"FULL_SNAPSHOT.tar.gz\": {\n      \"sha256\": \"99f6609034af96c801427e3bc28359d9011e05bb07acc1b52887f6ebcd291a70\",\n      \"bytes\": 1495574140,\n      \"path\": \"/data/sz_workspace/JAX-WFCOYAW-MPC/cbh20_net_energy_consistent_freeze_20260910/FULL_SNAPSHOT.tar.gz\"\n    },\n    \"REVIEW.tar.gz\": {\n      \"sha256\": \"ee624e3f83a9cd076d74d35721b8c6b36931dccb0b3c2a31a14d1249659cbefe\",\n      \"bytes\": 12893835,\n      \"path\": \"/data/sz_workspace/JAX-WFCOYAW-MPC/cbh20_net_energy_consistent_freeze_20260910/REVIEW.tar.gz\"\n    }\n  },\n  \"future_experiments_authorized\": false\n}\n",
+  "stderr": "",
+  "exitCode": 0,
+  "errorMessage": null
+}

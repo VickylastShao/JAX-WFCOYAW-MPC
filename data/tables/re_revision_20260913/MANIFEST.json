@@ -1,0 +1,14 @@
+{
+  "sources": {
+    "audit/paper2_net_energy_final_freeze_20260910/REVALIDATION_NET_SCORE.json": "e7cf4f440c376fab511400a4dafb92c8fcd8304df4e679cd78c0df8c64834dda",
+    "audit/executions/re_strengthening_20260912/confirmation/closure_three_roots_validation/results/CELLS.json": "dbe7c8b0ccc20faed90da23cf22b46bccdab7692fb04d391188a4adbf7a5dbbb",
+    "audit/PAPER2_NET_ENERGY_FINAL_FREEZE_20260910.json": "83034cd7883089fe185c2bcb1757955083aca27a9c6be8fec9eaf930e9adb4f5"
+  },
+  "generator": "paper/tools/revision_tables.py",
+  "prepare_results_extension": true,
+  "outputs": {
+    "evidence_roots.csv": "d80c48005a5818852d22bb1f4f7fcf4b62f3a2975160570b943402cd85864c0e",
+    "evidence_cells.csv": "82e6c7a421f9b6af92b80f7083e25b392d626278de22ce6709b6e1ee58530455",
+    "DESIGN.json": "13a6df8edcc1164c37a5f7b8f5aaf5a530f4af4797aaa4117515cb350837b6f8"
+  }
+}

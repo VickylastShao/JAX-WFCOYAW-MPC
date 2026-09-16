@@ -1,0 +1,37 @@
+{
+  "source_sha256": {
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1802/GRID_RESPONSE_T1/PROTOCOL.json": "be57dbffdb4c6db9c71a5a163294b2a886b83b333a70843b080d730f8ec1b3ee",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1802/GRID_RESPONSE_T1/results/RESULT.json": "643eb7858967ff7c3717946536916f0fdd337f4b8a39d4e61d6e5acd62f870ab",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1802/GRID_RESPONSE_T1/EXIT.json": "2a9a2013290c0999557950d1c2cbe33d1533007c3d737bbfe30df0919d51ca62",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1802/GRID_RESPONSE_T1/GPU_ADJUDICATION.json": "96edce9c2aeab7a76a9d143408143fa67bbd83ea1465a0ef8b287fe01f3d3d71",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1802/GRID_RESPONSE_T1/results/FAILURE.json": "186faeb7de0ffe37d571908bbc5f805bf3b5e5a35aad22a9f663761224e73f9f",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1802/GRID_RESPONSE_T1/results/TRACES.npz": "adfab806cf2a10b388bd2c5dfe6e356c3fb55b71570be6c3fd23b2f0c1715435",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1802/GRID_RESPONSE_T1/results/DIAGNOSTICS.json": "bf085fe7f7d86138cfc74b6df91a4d1b9b416c0ab3269ece548be32c51ded606",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1802/GRID_RESPONSE_T1/results/MAPPING.json": "36e0a30bcbecd03060d86113671c8299febb9d6bd37642fa147c1f0addf46ce6",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1910/GRID_SPECTRAL_RESPONSE_T1/PROTOCOL.json": "5c6612996856d822dfeab9b037d104af64f5b45e58b925b53f736140a6796afb",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1910/GRID_SPECTRAL_RESPONSE_T1/results/RESULT.json": "ec64e685739a560e30a6f924262c6fc7ea25ee4a3e8b2758d840e442b94bee81",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1910/GRID_SPECTRAL_RESPONSE_T1/EXIT.json": "cb0a61677382521c8a36ac139491c44a98a34fa1ff0ed4e45296f99f28d12b11",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1910/GRID_SPECTRAL_RESPONSE_T1/GPU_ADJUDICATION.json": "fa39919719921ea60294a79f006ee8c12936855643ea8de6e6909302c2a15f1d",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1910/GRID_SPECTRAL_RESPONSE_T1/results/FAILURE.json": "bd7de316712b6e47335de414f186e6004ded5f0371c41dfb9e657d94575d14b5",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1910/GRID_SPECTRAL_RESPONSE_T1/results/TRACES.npz": "03135bf735834be18900cdd4e7613f46f66a8bf988a942dcaba66022665718f4",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1910/GRID_SPECTRAL_RESPONSE_T1/results/DIAGNOSTICS.json": "09de021ce8a91ec57dfc448605a740ba04e3b40fcd5cab15f9134cfc27b1a3ea",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1910/GRID_SPECTRAL_RESPONSE_T1/results/MAPPING.json": "68b0cc19b6ee76725c62ef09d53a2751d83861e77a337e1e2ab02f4d3da43cd5",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1910/GRID_SPECTRAL_RESPONSE_T2/PROTOCOL.json": "c8cc1754ee408ed6d4c284dbb360221bb7bd472d7cb46fddbc3cba98b4eb2136",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1910/GRID_SPECTRAL_RESPONSE_T2/results/RESULT.json": "4aa8e178e46f3e3f24d81976cb82c79d49e49fff9f85a1aa4b497aef2fd79b67",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1910/GRID_SPECTRAL_RESPONSE_T2/EXIT.json": "c3cf13755896a2d4fdf8f0cb4b7013a8600020c9ed18140dd922c18103b8b7d6",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1910/GRID_SPECTRAL_RESPONSE_T2/GPU_ADJUDICATION.json": "fa39919719921ea60294a79f006ee8c12936855643ea8de6e6909302c2a15f1d",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1910/GRID_SPECTRAL_RESPONSE_T2/results/FAILURE.json": "bd7de316712b6e47335de414f186e6004ded5f0371c41dfb9e657d94575d14b5",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1910/GRID_SPECTRAL_RESPONSE_T2/results/TRACES.npz": "db0e29719aab5082ef4c6a56f8982d96dcc403d8c3dbdc5b80ddde9044e1f53c",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1910/GRID_SPECTRAL_RESPONSE_T2/results/DIAGNOSTICS.json": "7da6df4f46ef9a2cb1333525b6ef4cc575357a4b2f067d5e7614bbf744b849ca",
+    "audit/executions/re_strengthening_20260912/retrieved/snapshot_1910/GRID_SPECTRAL_RESPONSE_T2/results/MAPPING.json": "029fabed81e11ed104996cacf7d59d7448554b8af89f46c47fb035845a027c66"
+  },
+  "all_full_trace_checks_pass": true,
+  "scientific_response_failures_retained": true,
+  "no_grid_convergence_or_physical_validation_claim": true,
+  "outputs": {
+    "turbine_power.csv": "2b3baa06300252600be2ae51479c9ca14b90ec7bef446f604fde4a00598cf5a3",
+    "response_checks.csv": "cc1f1850ada23200ea0c544b3f550586d12ead2b0519e7d83437ccb6be504675",
+    "farm_power.csv": "cb3f2ba7b27644bf4a2b6457dc10a29d06180a706f845e6d3091330ebf69d9d5",
+    "state_transfer.csv": "88b144fc83fdf540fe0d591f363164346508ae0f33e849421a1aae4e0d83f8ba"
+  }
+}

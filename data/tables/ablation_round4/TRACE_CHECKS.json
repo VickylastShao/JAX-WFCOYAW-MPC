@@ -1,0 +1,79 @@
+[
+  {
+    "run": "S3_K1_I1_T1",
+    "trace_and_summary_match": true,
+    "full_coverage": true,
+    "synchronized_decisions": 9,
+    "sources_verified_by_gate_and_protocol": true
+  },
+  {
+    "run": "S3_K1_I1_T2",
+    "trace_and_summary_match": true,
+    "full_coverage": true,
+    "synchronized_decisions": 9,
+    "sources_verified_by_gate_and_protocol": true
+  },
+  {
+    "run": "S3_K1_I2_T1",
+    "trace_and_summary_match": true,
+    "full_coverage": true,
+    "synchronized_decisions": 9,
+    "sources_verified_by_gate_and_protocol": true
+  },
+  {
+    "run": "S3_K1_I2_T2",
+    "trace_and_summary_match": true,
+    "full_coverage": true,
+    "synchronized_decisions": 9,
+    "sources_verified_by_gate_and_protocol": true
+  },
+  {
+    "run": "S3_K1_I4_T1",
+    "trace_and_summary_match": true,
+    "full_coverage": true,
+    "synchronized_decisions": 9,
+    "sources_verified_by_gate_and_protocol": true
+  },
+  {
+    "run": "S3_K1_I4_T2",
+    "trace_and_summary_match": true,
+    "full_coverage": true,
+    "synchronized_decisions": 9,
+    "sources_verified_by_gate_and_protocol": true
+  },
+  {
+    "run": "S3_K1_I8_T1",
+    "trace_and_summary_match": true,
+    "full_coverage": true,
+    "synchronized_decisions": 9,
+    "sources_verified_by_gate_and_protocol": true
+  },
+  {
+    "run": "S3_K2_I4_T1",
+    "trace_and_summary_match": true,
+    "full_coverage": true,
+    "synchronized_decisions": 9,
+    "sources_verified_by_gate_and_protocol": true
+  },
+  {
+    "run": "S3_K2_I4_T2",
+    "trace_and_summary_match": true,
+    "full_coverage": true,
+    "synchronized_decisions": 9,
+    "sources_verified_by_gate_and_protocol": true
+  },
+  {
+    "run": "S3_K3_I4_T1",
+    "trace_and_summary_match": true,
+    "full_coverage": true,
+    "synchronized_decisions": 9,
+    "sources_verified_by_gate_and_protocol": true
+  },
+  {
+    "run": "S3_K3_I4_T2",
+    "trace_and_summary_match": true,
+    "full_coverage": true,
+    "synchronized_decisions": 9,
+    "sources_verified_by_gate_and_protocol": true
+  }
+]

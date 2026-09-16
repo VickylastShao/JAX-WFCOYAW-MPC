@@ -1,0 +1,5 @@
+family,segments,original_FP32_numerical_status,original_required_pointwise_pass,native_FP64_required_checks_pass,native_plateau_width_MW_per_deg,native_plateau_limit_MW_per_deg,FP32_replay_difference_MW_per_deg,directional_cross_precision_difference_percent,maximum_component_absolute_error_MW_per_deg,supplemental_release,independent_confirmation
+T1,2,fail,True,True,3.405651799089581e-06,2.178493107300609e-05,0.0,0.6685929210372669,5.335869495754018e-06,supplemental_development_pass,False
+T1,3,fail,True,True,3.4461490994175392e-06,2.1965381133772204e-05,1.4551915228366852e-10,0.660068311925918,5.3727902116474345e-06,supplemental_development_pass,False
+T2,2,fail,False,True,4.554011138561574e-06,4.865187056773268e-05,0.0,0.11691146179259825,2.7812251452805515e-06,supplemental_development_pass,False
+T2,3,fail,False,True,4.5197605480495895e-06,4.827061992009155e-05,0.0,0.11777797316730666,2.7683637307167677e-06,supplemental_development_pass,False

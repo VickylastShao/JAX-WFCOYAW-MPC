@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "purpose": "paper2_user_authorized_final_net_energy_result_freeze",
+  "status": "frozen",
+  "outcomes_present": true,
+  "authorization": "User explicitly requested 冻结成果",
+  "created_utc": "2026-09-09T23:39:10.088636+00:00",
+  "paper_main_controller": "CONSISTENT-NET-ENERGY-20260909: pure LES-MPC with shared exact motion net energy model",
+  "G_MPC_role": "generation-objective ablation only",
+  "historical_results_preserved": true,
+  "research_mainline_overwritten": false,
+  "evidence_class": "ideal-preview perfect-state fixed-input revalidation; not new independent confirmation",
+  "claims": {
+    "power_kw_per_turbine_scenario": 30,
+    "net_gain_vs_zero_percent": 1.1023763033440215,
+    "net_gain_vs_lookup_percent": 0.8164581331215004,
+    "net_gain_vs_G_percent": -0.0012733816664001196,
+    "root_count": 6,
+    "cell_count": 12,
+    "decisions": 108,
+    "fallback_count": 0,
+    "controller_seconds_range": [
+      152.40148049779236,
+      153.4444956718944
+    ]
+  },
+  "negative_and_heterogeneous_results_retained": true,
+  "future_experiments_authorized": false,
+  "automatic_continuation_authorized": false,
+  "resource_batch_closed": true,
+  "remote_full_snapshot": {
+    "sha256": "99f6609034af96c801427e3bc28359d9011e05bb07acc1b52887f6ebcd291a70",
+    "bytes": 1495574140,
+    "path": "/data/sz_workspace/JAX-WFCOYAW-MPC/cbh20_net_energy_consistent_freeze_20260910/FULL_SNAPSHOT.tar.gz"
+  },
+  "local_review_snapshot": {
+    "path": "audit/paper2_net_energy_final_freeze_20260910/REVIEW.tar.gz",
+    "sha256": "ee624e3f83a9cd076d74d35721b8c6b36931dccb0b3c2a31a14d1249659cbefe"
+  },
+  "remote_file_count": 405,
+  "local_review_files_verified": 373,
+  "large_input_archives": "preserved at existing locations; bound by input manifest/payload/state hashes in source protocols",
+  "source_package_sha256": "a5eba2fd00fbc502d1b5808660cb934d697cc35e6c717dad449eb25816087e0d",
+  "bound_files": {
+    "audit/paper2_net_energy_final_freeze_20260910/ADJUDICATION.json": "138b4fa4119c1d77587e9a94b2403d6669dd5aa868dc477d30ca984bf8e0327d",
+    "audit/paper2_net_energy_final_freeze_20260910/ALIGNMENT.json": "da21a83d0558efb9a1dab87b968a338454a7395a14641d61ab321616c5443373",
+    "audit/paper2_net_energy_final_freeze_20260910/ARCHIVE_LAUNCH.json": "6a2b652597a50f794c019c6ce634cf1fa1e16408dcfd06a65982a702d8dff2cb",
+    "audit/paper2_net_energy_final_freeze_20260910/ARCHIVE_STATUS_01.json": "e64aa4dcc7421c34e1f653f1366b7ddaeb597f1cce9286ba9acbc6da164f6ae4",
+    "audit/paper2_net_energy_final_freeze_20260910/ARCHIVE_STATUS_02.json": "e2ab8eb542a5a519099fd631cfdafd4755639e9382338013c4c40b0fef9f1be6",
+    "audit/paper2_net_energy_final_freeze_20260910/CONCLUSIONS.md": "8e8a6938bd32f271f971c87d90d94673bf65b30256c5c1d10e246abaedd14b46",
+    "audit/paper2_net_energy_final_freeze_20260910/DOWNLOAD.json": "bcf4e132e1a37790f8c067e5c6c806bb2677cbe3fe365a626c47d1fc18acffea",
+    "audit/paper2_net_energy_final_freeze_20260910/MAIN_RESULTS.csv": "ff3e2688ffd73412b8b5a609fd62a9f864ac3e80e582c1f24352cff79735a3ff",
+    "audit/paper2_net_energy_final_freeze_20260910/REMOTE_MANIFEST.json": "79ebe9f0809504bf89ada08f0aebe813930687c444a0792caba11d79cdf71fab",
+    "audit/paper2_net_energy_final_freeze_20260910/REMOTE_PREFLIGHT.json": "97137bb6875435a557705d76544f538ae450c43568360abc7e91ad930b8659cb",
+    "audit/paper2_net_energy_final_freeze_20260910/REMOTE_SEAL.json": "f95b497f5586731d74b2e05a7f0de6bed2c0b042b20785742998ba7a9a5e5e75",
+    "audit/paper2_net_energy_final_freeze_20260910/REVALIDATION_NET_SCORE.json": "e7cf4f440c376fab511400a4dafb92c8fcd8304df4e679cd78c0df8c64834dda",
+    "audit/paper2_net_energy_final_freeze_20260910/REVALIDATION_RESULT.json": "1087b9e85ae95320f343b356649d2c22b26111ba3723cf0b4a32c227627e78b5",
+    "audit/paper2_net_energy_final_freeze_20260910/REVIEW.tar.gz": "ee624e3f83a9cd076d74d35721b8c6b36931dccb0b3c2a31a14d1249659cbefe",
+    "audit/paper2_net_energy_final_freeze_20260910/UPLOAD.json": "19ebca5343a774fa430428fcd4f49b126327d05dbad17fc6af2d6c7847646d2d",
+    "audit/paper2_net_energy_final_freeze_20260910/VALIDATION.json": "f341a96fac7a6fbf2131f3030914ecb9777a4ef5221ddd72351a35fe336fe6c8",
+    "audit/paper2_net_energy_final_freeze_20260910/freeze_remote.py": "68649f8e48cbef56192902b018c142455a6e920a871c0f9a588c65eaff4b27f5",
+    "audit/paper2_net_energy_final_freeze_20260910/verify_review.py": "ca48aa5cfd6e5dedf463489d671085bd9aa425056ddbe373556ca09a54de7485",
+    "audit/PAPER2_NET_ENERGY_FINAL_CONCLUSIONS_20260910.md": "8e8a6938bd32f271f971c87d90d94673bf65b30256c5c1d10e246abaedd14b46"
+  },
+  "preservation": "Separate snapshots, SHA256 manifest and read-only artifact files; not WORM."
+}

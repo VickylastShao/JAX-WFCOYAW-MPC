@@ -1,0 +1,204 @@
+{
+  "repository": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC",
+  "tag": "paper-evidence-2026-09-16-v1",
+  "assets": [
+    {
+      "name": "Public_Reviewer_Score_Check_20260913.zip",
+      "bytes": 3067384,
+      "sha256": "7b58ce5bbaa468c69851a8e4fd745daf63db4178128a04683c8802094dfa499d",
+      "original_path": "paper/08_manuscript/supplements/Reviewer_Score_Check_20260913.zip",
+      "original_sha256": "7b58ce5bbaa468c69851a8e4fd745daf63db4178128a04683c8802094dfa499d",
+      "public_copy_changed": false,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Reviewer_Score_Check_20260913.zip"
+    },
+    {
+      "name": "Public_Source_Data_V3.zip",
+      "bytes": 58546,
+      "sha256": "49dda8ae12dde9e16896ea616d24bd9f2b52a872d4a337819d43a712ff727da7",
+      "original_path": "paper/08_manuscript/supplements/Source_Data_V3.zip",
+      "original_sha256": "49dda8ae12dde9e16896ea616d24bd9f2b52a872d4a337819d43a712ff727da7",
+      "public_copy_changed": false,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_V3.zip"
+    },
+    {
+      "name": "Public_Source_Data_actual_target_20260916.zip",
+      "bytes": 5701686,
+      "sha256": "a4459eb0292f393a46bc727172ef0623db38180467321bf104635a04f559459e",
+      "original_path": "paper/08_manuscript/supplements/Source_Data_actual_target_20260916.zip",
+      "original_sha256": "5daf2d8922bdaa57f786a334fe545204abd3f029499b7e923b6adea17d2c58f3",
+      "public_copy_changed": true,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_actual_target_20260916.zip"
+    },
+    {
+      "name": "Public_Source_Data_closure_intermediate_20260913.zip",
+      "bytes": 78963,
+      "sha256": "6cbd43f1a379988be996fa3e7a16cd94b175de2dfc498250ce1ad0dad69c67cd",
+      "original_path": "paper/08_manuscript/supplements/Source_Data_closure_intermediate_20260913.zip",
+      "original_sha256": "6cbd43f1a379988be996fa3e7a16cd94b175de2dfc498250ce1ad0dad69c67cd",
+      "public_copy_changed": false,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_closure_intermediate_20260913.zip"
+    },
+    {
+      "name": "Public_Source_Data_derivative_scope_20260915.zip",
+      "bytes": 9220643,
+      "sha256": "5dd340a47bf64028f44e20669536bc4ade0a2c4b356b498aae14157f53fa530e",
+      "original_path": "paper/08_manuscript/supplements/Source_Data_derivative_scope_20260915.zip",
+      "original_sha256": "36bdb2cfcb4ec08a1266b22f38eec573b70159feef7de2f8c9c3addc54bb62ba",
+      "public_copy_changed": true,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_derivative_scope_20260915.zip"
+    },
+    {
+      "name": "Public_Source_Data_dynamic_comparator_20260915.zip",
+      "bytes": 10356632,
+      "sha256": "b55669d1ddfd577c8af2aa9acde2d32f7df1dede753be0b25712b378385fd83c",
+      "original_path": "paper/08_manuscript/supplements/Source_Data_dynamic_comparator_20260915.zip",
+      "original_sha256": "b55669d1ddfd577c8af2aa9acde2d32f7df1dede753be0b25712b378385fd83c",
+      "public_copy_changed": false,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_dynamic_comparator_20260915.zip"
+    },
+    {
+      "name": "Public_Source_Data_dynamic_model_diagnostics_20260914.zip",
+      "bytes": 237996,
+      "sha256": "088200cd4b45e123102d11c0b7bcd2657455a7c59f8368e765ef329db00e2929",
+      "original_path": "paper/08_manuscript/supplements/Source_Data_dynamic_model_diagnostics_20260914.zip",
+      "original_sha256": "088200cd4b45e123102d11c0b7bcd2657455a7c59f8368e765ef329db00e2929",
+      "public_copy_changed": false,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_dynamic_model_diagnostics_20260914.zip"
+    },
+    {
+      "name": "Public_Source_Data_editorial_optimization_20260914.zip",
+      "bytes": 528580,
+      "sha256": "25d7501921447992478402aa84b6ec1491d4bc381cc3c213d9dac74606c6e619",
+      "original_path": "paper/08_manuscript/supplements/Source_Data_editorial_optimization_20260914.zip",
+      "original_sha256": "25d7501921447992478402aa84b6ec1491d4bc381cc3c213d9dac74606c6e619",
+      "public_copy_changed": false,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_editorial_optimization_20260914.zip"
+    },
+    {
+      "name": "Public_Source_Data_focused_causal_value_20260914.zip",
+      "bytes": 11942507,
+      "sha256": "8600b698c3d852cb7a06fefeb985100879c79ed1fc95787477ff4ab28373d275",
+      "original_path": "paper/08_manuscript/supplements/Source_Data_focused_causal_value_20260914.zip",
+      "original_sha256": "c3e583802b492973abc13ea67700a222b102e4b371ee5df992ebe9eb993b6927",
+      "public_copy_changed": true,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_focused_causal_value_20260914.zip"
+    },
+    {
+      "name": "Public_Source_Data_method_value_20260913.zip",
+      "bytes": 2414867,
+      "sha256": "ad38163d03cb164e2036adddf5d0550dedb420b698935801fb46cf6925edf8a8",
+      "original_path": "paper/08_manuscript/supplements/Source_Data_method_value_20260913.zip",
+      "original_sha256": "8025649b8c302a8a53831c15c92fe5ad3cbdf4d29e1c1945946a9a0dd10d7be3",
+      "public_copy_changed": true,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_method_value_20260913.zip"
+    },
+    {
+      "name": "Public_Source_Data_native64_closure_20260916.zip",
+      "bytes": 14612388,
+      "sha256": "bebf94766343c68c056a4cd9fc70c2d629be156969808bf3b80d84fc9a22f7a3",
+      "original_path": "paper/08_manuscript/supplements/Source_Data_native64_closure_20260916.zip",
+      "original_sha256": "430b4ad992b87f02c7124118c7c37d8085682365b514d403a9913e3af16e7f92",
+      "public_copy_changed": true,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_native64_closure_20260916.zip"
+    },
+    {
+      "name": "Public_Source_Data_own_tail_causal_20260916.zip",
+      "bytes": 30611453,
+      "sha256": "9cdac05bce6e2aef90a438b59ed910aea1d5089283fc23b82af04198679b357a",
+      "original_path": "paper/08_manuscript/supplements/Source_Data_own_tail_causal_20260916.zip",
+      "original_sha256": "98c6410a8b3f4f796572b2827c79beb1470fb160d75e4530d221da8d68857747",
+      "public_copy_changed": true,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_own_tail_causal_20260916.zip"
+    },
+    {
+      "name": "Public_Source_Data_revision_20260913.zip",
+      "bytes": 25669,
+      "sha256": "a11545449e7dc60a5b3f42c4d93f7dd02aaa9b5f46ffa8ab7c74ecd8c1b256bb",
+      "original_path": "paper/08_manuscript/supplements/Source_Data_revision_20260913.zip",
+      "original_sha256": "a11545449e7dc60a5b3f42c4d93f7dd02aaa9b5f46ffa8ab7c74ecd8c1b256bb",
+      "public_copy_changed": false,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_revision_20260913.zip"
+    },
+    {
+      "name": "Public_Source_Data_revision_20260913_final.zip",
+      "bytes": 6135150,
+      "sha256": "fde601edb4b1120697f8cbaf4e713494d81167ab41967e0a13dfd8bc378f5c45",
+      "original_path": "paper/08_manuscript/supplements/Source_Data_revision_20260913_final.zip",
+      "original_sha256": "fde601edb4b1120697f8cbaf4e713494d81167ab41967e0a13dfd8bc378f5c45",
+      "public_copy_changed": false,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_revision_20260913_final.zip"
+    },
+    {
+      "name": "Public_Source_Data_strengthening_S3_S5_20260912.zip",
+      "bytes": 247262,
+      "sha256": "5596b95abdc176353c4b01ad7a9671754de29999c4fc0a388389c2790a4a9b76",
+      "original_path": "paper/08_manuscript/supplements/Source_Data_strengthening_S3_S5_20260912.zip",
+      "original_sha256": "5596b95abdc176353c4b01ad7a9671754de29999c4fc0a388389c2790a4a9b76",
+      "public_copy_changed": false,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_strengthening_S3_S5_20260912.zip"
+    },
+    {
+      "name": "Public_Source_Data_strengthening_development_20260912.zip",
+      "bytes": 185393,
+      "sha256": "614a03fb1aec9a825a188a63b0510f83ca81f2ad03dbacc41201bca2be890927",
+      "original_path": "paper/08_manuscript/supplements/Source_Data_strengthening_development_20260912.zip",
+      "original_sha256": "614a03fb1aec9a825a188a63b0510f83ca81f2ad03dbacc41201bca2be890927",
+      "public_copy_changed": false,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_strengthening_development_20260912.zip"
+    },
+    {
+      "name": "Public_Source_Data_strengthening_final_20260913.zip",
+      "bytes": 236538,
+      "sha256": "8465c44d431ebbdf699809b198ed46669ca7d822bed2da2e49214509830b537d",
+      "original_path": "paper/08_manuscript/supplements/Source_Data_strengthening_final_20260913.zip",
+      "original_sha256": "8465c44d431ebbdf699809b198ed46669ca7d822bed2da2e49214509830b537d",
+      "public_copy_changed": false,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_strengthening_final_20260913.zip"
+    },
+    {
+      "name": "Public_Source_Data_U1_completed_20260914.zip",
+      "bytes": 5798844,
+      "sha256": "80dda85e0b06a49721f4160a6aad4256879c0b8636531fe1e5405072475737c0",
+      "original_path": "paper/07_results/source_data/Source_Data_U1_completed_20260914.zip",
+      "original_sha256": "80dda85e0b06a49721f4160a6aad4256879c0b8636531fe1e5405072475737c0",
+      "public_copy_changed": false,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_U1_completed_20260914.zip"
+    },
+    {
+      "name": "Public_Source_Data_contribution_upgrade_20260914.zip",
+      "bytes": 2086022,
+      "sha256": "ebd3fd9c4099c00fc30ce6c89679ba965ac7a35662b8a5738d1165f0fa23ac63",
+      "original_path": "paper/07_results/source_data/Source_Data_contribution_upgrade_20260914.zip",
+      "original_sha256": "83481924255cb123031e40867c7ac7afce5fb7b31c86e50ca904b090e0eca2b9",
+      "public_copy_changed": true,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_contribution_upgrade_20260914.zip"
+    },
+    {
+      "name": "Public_Source_Data_postU1_execution_20260914.zip",
+      "bytes": 7747094,
+      "sha256": "6f4866b65654937bef82056ad5a930538855d7e5a410d5ecf0c1e3cdf67b2ef7",
+      "original_path": "paper/07_results/source_data/Source_Data_postU1_execution_20260914.zip",
+      "original_sha256": "053fb465fa41f17d3d812e569b2f69ba6ff71c214c1bc518ba6982509aa06f54",
+      "public_copy_changed": true,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Source_Data_postU1_execution_20260914.zip"
+    },
+    {
+      "name": "Public_Original_Net_Energy_Traces_20260910.tar.gz",
+      "bytes": 12814818,
+      "sha256": "4adeeb8d14b0f47002ddc3620394e626b69e9bad7212831b93092ce4673bd7fa",
+      "original_path": "audit/paper2_net_energy_final_freeze_20260910/REVIEW.tar.gz",
+      "original_sha256": "ee624e3f83a9cd076d74d35721b8c6b36931dccb0b3c2a31a14d1249659cbefe",
+      "public_copy_changed": true,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Original_Net_Energy_Traces_20260910.tar.gz"
+    },
+    {
+      "name": "Public_Original_Experiment_Source_20260909.tar.gz",
+      "bytes": 870240,
+      "sha256": "1215f1146648dfe9950a013f815a784e31f620122dd36f2e894c5e265dbc959a",
+      "original_path": "audit/executions/net_energy_consistent_20260909/PACKAGE.tar.gz",
+      "original_sha256": "a5eba2fd00fbc502d1b5808660cb934d697cc35e6c717dad449eb25816087e0d",
+      "public_copy_changed": true,
+      "url": "https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/download/paper-evidence-2026-09-16-v1/Public_Original_Experiment_Source_20260909.tar.gz"
+    }
+  ]
+}

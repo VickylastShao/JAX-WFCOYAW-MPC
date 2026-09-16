@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Wind_RL_LICENSE",
+    "url": "https://raw.githubusercontent.com/admole/Wind-RL/98d056e64e655a09d8d125cca47058ac3011d8e7/LICENSE",
+    "sha256": "c5d8d2e3fc64f88c272ee2050af4d84e5f58f1a5d17a3aa99a47b77466a6fe72",
+    "bytes": 1098
+  },
+  {
+    "name": "Incompact3d_LICENSE",
+    "url": "https://raw.githubusercontent.com/admole/Incompact3d/2c7c85bc3140d3ae983a65e44dbb50582d984709/LICENSE",
+    "sha256": "88ac953169a5c301d7c4a0daee476f2f90f48f7d06c927858ca5482d7fa27ab0",
+    "bytes": 1523
+  }
+]

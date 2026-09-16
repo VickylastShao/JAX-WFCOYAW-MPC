@@ -1,0 +1,143 @@
+{
+  "status": "G1_completed_reliable_value_criterion_failed_G2_not_launched",
+  "all_jobs_terminal": true,
+  "independent_audit_pass": true,
+  "scored_stage": "G1",
+  "scored_delivery_archive": "G1_DELIVERY.zip",
+  "G2_started": false,
+  "independent_confirmation": false,
+  "outcome_summary_zh": "G1两个完整场景可靠执行，18/18次决策在180秒内完成且无回退。新候选合并净能量相对K1为−0.1094%，相对无偏航为−0.7666%，相对外部B1P*(F)为−0.6839%；均未满足冻结推进标准，因此G2停止、没有新独立确认。",
+  "score": {
+    "audit_status": "pass",
+    "jobs": [
+      {
+        "job": "G1_SC-74121202_T1",
+        "complete": true,
+        "reliable": true,
+        "exit_code": 0,
+        "gpu_card_seconds": 1580.506945
+      },
+      {
+        "job": "G1_SC-74121202_T2",
+        "complete": true,
+        "reliable": true,
+        "exit_code": 0,
+        "gpu_card_seconds": 1579.443552
+      }
+    ],
+    "verified_files": 178,
+    "total_gpu_card_seconds": 3159.950497,
+    "case_comparisons": [
+      {
+        "root": "SC-74121202",
+        "scenario": "T1",
+        "reference": "K1",
+        "candidate_net_kwh": 5464.270925565396,
+        "reference_net_kwh": 5471.269786664122,
+        "delta_kwh": -6.998861098725683,
+        "gain_percent": -0.1279202337231655,
+        "numerical_band_kwh": 0.0547758982239757,
+        "above_band": false,
+        "reliable": true
+      },
+      {
+        "root": "SC-74121202",
+        "scenario": "T1",
+        "reference": "B1P*(F)",
+        "candidate_net_kwh": 5464.270925565396,
+        "reference_net_kwh": 5583.613932388021,
+        "delta_kwh": -119.34300682262437,
+        "gain_percent": -2.137379272058362,
+        "numerical_band_kwh": 0.05586057682388021,
+        "above_band": false,
+        "reliable": true
+      },
+      {
+        "root": "SC-74121202",
+        "scenario": "T1",
+        "reference": "no_yaw",
+        "candidate_net_kwh": 5464.270925565396,
+        "reference_net_kwh": 5496.754286276042,
+        "delta_kwh": -32.483360710645684,
+        "gain_percent": -0.5909552986886851,
+        "numerical_band_kwh": 0.05496854286276043,
+        "above_band": false,
+        "reliable": true
+      },
+      {
+        "root": "SC-74121202",
+        "scenario": "T2",
+        "reference": "K1",
+        "candidate_net_kwh": 6907.139338198202,
+        "reference_net_kwh": 6913.695361095519,
+        "delta_kwh": -6.556022897317234,
+        "gain_percent": -0.09482660943102925,
+        "numerical_band_kwh": 0.06921051312769967,
+        "above_band": false,
+        "reliable": true
+      },
+      {
+        "root": "SC-74121202",
+        "scenario": "T2",
+        "reference": "B1P*(F)",
+        "candidate_net_kwh": 6907.139338198202,
+        "reference_net_kwh": 6872.991690001073,
+        "delta_kwh": 34.14764819712855,
+        "gain_percent": 0.49683819997639506,
+        "numerical_band_kwh": 0.06914158902552953,
+        "above_band": true,
+        "reliable": true
+      },
+      {
+        "root": "SC-74121202",
+        "scenario": "T2",
+        "reference": "no_yaw",
+        "candidate_net_kwh": 6907.139338198202,
+        "reference_net_kwh": 6970.230974712674,
+        "delta_kwh": -63.09163651447216,
+        "gain_percent": -0.9051584767185268,
+        "numerical_band_kwh": 0.06970330974712674,
+        "above_band": false,
+        "reliable": true
+      }
+    ],
+    "root_comparisons": [
+      {
+        "root": "SC-74121202",
+        "reference": "K1",
+        "delta_kwh": -13.554883996042918,
+        "numerical_band_kwh": 0.12398641135167537,
+        "reliable": true,
+        "pass_": false
+      },
+      {
+        "root": "SC-74121202",
+        "reference": "B1P*(F)",
+        "delta_kwh": -85.19535862549583,
+        "numerical_band_kwh": 0.12500216584940974,
+        "reliable": true,
+        "pass_": false
+      },
+      {
+        "root": "SC-74121202",
+        "reference": "no_yaw",
+        "delta_kwh": -95.57499722511784,
+        "numerical_band_kwh": 0.12467185260988717,
+        "reliable": true,
+        "pass_": false
+      }
+    ],
+    "combined_comparisons": [],
+    "advance_to_G2": false,
+    "proceed_to_new_confirmation_design": false,
+    "independent_confirmation": false,
+    "new_confirmation_launch_authorized": false
+  },
+  "archive": {
+    "bytes": 5951502,
+    "sha256": "7a1d1d1153578d946d8f58792248a75519faf735ba2ff9ed7adbe7aa10754fa2"
+  },
+  "qualification_release": "../re_own_tail_rounding_20260916/RELEASE.json",
+  "new_precursors": 0,
+  "new_confirmation_launch_authorized": false
+}

@@ -1,0 +1,4 @@
+cell,family,segments,updates,generation_kwh,noyaw_kwh,yaw_travel_deg,yaw_motion_kwh,net_kwh,gain_percent,maximum_online_seconds,fallback_count,online_eligible,yaw_motion_starts,yaw_motion_reversals,evidence_class,independent_roots_in_this_cell
+OC-73090801__T1,T1,1,1,5432.7643957907985,5418.467126974826,80.99498921632767,2.2498608115646572,5430.514534979234,0.222339782120895,67.25034894794226,0,True,81,30,outcome_exposed_root1_full_closed_loop_development_ablation,1
+OC-73090801__T1,T1,1,2,5447.772456855903,5418.467126974826,118.72113770246506,3.297809380624029,5444.474647475279,0.4799792984067297,99.19513292331249,0,True,81,37,outcome_exposed_root1_full_closed_loop_development_ablation,1
+OC-73090801__T1,T1,1,4,5509.295668091146,5418.467126974826,185.53015440702438,5.153615400195122,5504.142052690951,1.5811653685155358,160.1342248590663,0,True,81,37,outcome_exposed_root1_full_closed_loop_development_ablation,1

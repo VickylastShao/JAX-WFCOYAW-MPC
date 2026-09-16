@@ -1,0 +1,4 @@
+run,response_agreement_pass,nominal_response_percent,refined_response_percent,response_difference_percentage_points,response_gain_criterion_pass,complete_physical_response,full_closed_loop_tested,independent_confirmation
+linear_T1,False,0.014071910516921804,-0.50919342983895,0.5232653403558718,False,True,False,False
+cubic_Fourier_T1,False,0.014071910516921804,-0.26138020452024513,0.27545211503716693,True,True,False,False
+cubic_Fourier_T2,False,0.0017064240430020305,-0.2507397348979312,0.25244615894093325,True,True,False,False

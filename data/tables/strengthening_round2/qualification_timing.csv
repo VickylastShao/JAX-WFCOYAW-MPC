@@ -1,0 +1,7 @@
+cell,segments,updates,repeat,online_seconds,deadline_seconds,eligible,numerical_pass,precision,evidence_class
+OC-73090801__T1,1,4,0,159.87557758390903,180,True,True,highest,outcome_exposed_new_highest_FP32_numerical_configuration_qualification
+OC-73090801__T1,1,4,1,159.8227698514238,180,True,True,highest,outcome_exposed_new_highest_FP32_numerical_configuration_qualification
+OC-73090801__T1,1,4,2,159.80656750313938,180,True,True,highest,outcome_exposed_new_highest_FP32_numerical_configuration_qualification
+OC-73090801__T2,1,4,0,159.96270214021206,180,True,True,highest,outcome_exposed_new_highest_FP32_numerical_configuration_qualification
+OC-73090801__T2,1,4,1,159.75000974629074,180,True,True,highest,outcome_exposed_new_highest_FP32_numerical_configuration_qualification
+OC-73090801__T2,1,4,2,159.7402676520869,180,True,True,highest,outcome_exposed_new_highest_FP32_numerical_configuration_qualification

@@ -1,0 +1,9 @@
+{
+  "exit_code": 0,
+  "started_at": "2026-09-13T11:34:00.053735048Z",
+  "finished_at": "2026-09-13T12:01:12.665794268Z",
+  "oom_killed": false,
+  "error": "",
+  "container_id": "d938d1613a5724670b1049c35b2d7e83b4d363cff0c564fd0ea645689f0b0f77",
+  "automatic_retry": false
+}

@@ -1,0 +1,10 @@
+{
+  "mpc_net_kwh": 12342.248149236202,
+  "lookup_net_kwh": 12475.840219676329,
+  "noyaw_kwh": 12402.206315177951,
+  "yaw_travel_deg": 496.0234504342079,
+  "delta_noyaw_kwh": -59.95816594174812,
+  "delta_lookup_kwh": -133.592070440126,
+  "gain_noyaw_percent": -0.4834475771328742,
+  "gain_lookup_percent": -1.070806198923826
+}

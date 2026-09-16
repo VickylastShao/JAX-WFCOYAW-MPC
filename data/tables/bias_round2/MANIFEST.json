@@ -1,0 +1,175 @@
+{
+  "sources": {
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_MPC_T1_dir_m5/PROTOCOL.json": "ffcfd2399b4371fb260b3d9d23c10a1f562330480594dfeb32eb3a7bccebd4e5",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_MPC_T1_dir_m5/results/RESULT.json": "921d83af18f3fa07bf4b0d88fe7496fb7c3691898c8e3514feba588762f655af",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_MPC_T1_dir_m5/GPU_ADJUDICATION.json": "554431d06e4cda701649326cf27d97d9b9dd0c86d16519d1f2319f9e265ac074",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_MPC_T1_dir_m5/EXIT.json": "990e4ce1e480cf83c0b0d32f4f2ce1d86899af93eea324d32e12030a939fc313",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_MPC_T1_dir_m5/results/TRACES.npz": "7d21fa69737d970d22b30dc42605d20ccffd1708b65897a4b1bece4dda890bcc",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_MPC_T1_dir_m5/results/decision_0000.json": "fd7c786db01cb9234a9880f4f72fd0cba0872d21c31adb680e25627eedb4381a",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_MPC_T1_dir_m5/results/decision_0200.json": "3c296c10f1c2996c84ac62591da89721a32ebc7f4f18ae7704d0e538dea84e78",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_MPC_T1_dir_m5/results/decision_0400.json": "be565a7d2aa75e281974acb3d3cded885d0c4df466e090ae95e5c7325c77a2ff",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_MPC_T1_dir_m5/results/decision_0600.json": "c0996ac747e3764060c6eff09baee722d8a2f529451d6901966d1e0bc18d177b",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_MPC_T1_dir_m5/results/decision_0800.json": "3c5592878c9d7aa310b56097c0e71c6c11204f7dd69d977488685f039ea12aae",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_MPC_T1_dir_m5/results/decision_1000.json": "d253bac02fdbdbc7f4baca265947a241104d8f9d59bddaa04e4a4268c53a8550",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_MPC_T1_dir_m5/results/decision_1200.json": "a86b5678f5c0f6ea901abe52180ab101ddd6a9c7a9005bba16e1b56b888e839a",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_MPC_T1_dir_m5/results/decision_1400.json": "716adc4add0cf7747b8935a47e88b33b253ab60f078aaffa6f07b2d67e43d14d",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_MPC_T1_dir_m5/results/decision_1600.json": "a674330f31aef58fc5b4192cc2e50e754089c6f5983baee4d3952e8dd0c2be99",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_LOOKUP_T1_dir_m5/PROTOCOL.json": "7bbee778d39d987baafb7be0d7ba29f69f35ebe23394b0048cfb0945d3fe0c0a",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_LOOKUP_T1_dir_m5/results/RESULT.json": "4fd368747b62a482563d972a34aa8a0aa7a83c5b90ea56f4376cb45bb1ff834c",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_LOOKUP_T1_dir_m5/GPU_ADJUDICATION.json": "d811e9cc5cb90f6534e595475d3fb4846ca0c42d6defdbf81597499612e9dbc1",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_LOOKUP_T1_dir_m5/EXIT.json": "132161bbdaa647fc5aa9739d90fa3fdf588a1348de0e322cc240ba5a5b8d5d47",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_LOOKUP_T1_dir_m5/results/TRACES.npz": "6a0d3d1c386c1b059e1d5bec4f76519ace55d32ec62d097a3b97c62615a1889a",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_LOOKUP_T1_dir_m5/results/decision_0000.json": "7b6f858efb735dc864f6dc79fdc483bcbc08b9d1232f492d509687287d5fec62",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_LOOKUP_T1_dir_m5/results/decision_0200.json": "b81f044b1fc03cb90147cc92d31589114bd7b25a22fc56c49cdfa3a06c43d5a5",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_LOOKUP_T1_dir_m5/results/decision_0400.json": "e49200bad7c3e6984d4f779602e0ae137cba5221872d691a687360643482432d",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_LOOKUP_T1_dir_m5/results/decision_0600.json": "ce1f7c31a7abd83806d31cb4c06120985d99ea0e5d3ab3019ac72773bf4f5af6",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_LOOKUP_T1_dir_m5/results/decision_0800.json": "69219741b30f1f29fd7427e0e6b749e4f882a70404897483aedbb365a18e507e",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_LOOKUP_T1_dir_m5/results/decision_1000.json": "c97f3181230b66a6d878d2074c86d34e25d204b4d82bfa3fe43b52b303acc3f7",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_LOOKUP_T1_dir_m5/results/decision_1200.json": "a09f08ff75d7d1237fe2e6984cf8eecba499f70166350882c6f77cb793835cfc",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_LOOKUP_T1_dir_m5/results/decision_1400.json": "c4dd29124a9dccd24ae2f839cddfff1acac354a96319ea25641e651500dfb930",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2304/ERROR_LOOKUP_T1_dir_m5/results/decision_1600.json": "b998588f303fd0fa9e88e8d3f2181b8e62dc8eec930b1b9fdf5b232c5dae333c",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_MPC_T1_dir_m2/PROTOCOL.json": "ad1fa8a4045a2e4639640155ce6245a85c2efa40a5d50813303f2522ce9876f3",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_MPC_T1_dir_m2/results/RESULT.json": "cda48101872fcc45a46233bbce3f69354fd8e39c30383db91e1bb981ff0b0941",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_MPC_T1_dir_m2/GPU_ADJUDICATION.json": "554431d06e4cda701649326cf27d97d9b9dd0c86d16519d1f2319f9e265ac074",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_MPC_T1_dir_m2/EXIT.json": "516f507cebfa7acb47893dbfb9c77a4965ad97defff13bb79fe9f54aae1f3cf9",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_MPC_T1_dir_m2/results/TRACES.npz": "42869a50d30cf0dcbe3b425381bdda82d6a07557e6d51ddda2813341cadc336d",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_MPC_T1_dir_m2/results/decision_0000.json": "f5b9521cf7d3d31c3d2ebeeaf054c2efcdbc6daf5de55b54fce5975a32cf6cc0",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_MPC_T1_dir_m2/results/decision_0200.json": "972ecbcf49ac1d65cd655228a7b9b00396ea0e5f58a1e830bab0621d8244dc36",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_MPC_T1_dir_m2/results/decision_0400.json": "32c695f154a3d38ce6e00f5299bab4545b3d920ec650bc2cec899c837deff041",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_MPC_T1_dir_m2/results/decision_0600.json": "50f4c896eb1fed923bc14401a70cbe0fdb7acc48fbce39ff6a339bf5cd64f321",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_MPC_T1_dir_m2/results/decision_0800.json": "ac503ae7b27cf915912b568adad46939a10ede5c168984ac15756c00e9e0d416",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_MPC_T1_dir_m2/results/decision_1000.json": "b1868ad448b5bce288dcd09ad79be43e866cc6d241e418500fa63dc919f06b63",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_MPC_T1_dir_m2/results/decision_1200.json": "230e1f3734b916815d5db39660068685605aa3baa998db9e626c40d3a57f7b20",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_MPC_T1_dir_m2/results/decision_1400.json": "97ca7096643513affeb55d9e9bbdc1df398052ed9344a1ca36885d5c3cbd9fa5",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_MPC_T1_dir_m2/results/decision_1600.json": "4da5b47296ce54ec40ee07d70de3ac9e447c81131908cc6a43429b8a83642780",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_LOOKUP_T1_dir_m2/PROTOCOL.json": "d503396556ab3a320c3cbd7f652a6fdfd277e5db9c1c30f88dc8e5da7a235ef3",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_LOOKUP_T1_dir_m2/results/RESULT.json": "e2353376b21eaddf22f1b9296728bf1b4bbe2908690df6788a66c6b0a3a22b0e",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_LOOKUP_T1_dir_m2/GPU_ADJUDICATION.json": "d811e9cc5cb90f6534e595475d3fb4846ca0c42d6defdbf81597499612e9dbc1",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_LOOKUP_T1_dir_m2/EXIT.json": "49dee89fea5b0d9518cba51abf3505a28cd81fbe35e54a6adcdb158bb5cf0289",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_LOOKUP_T1_dir_m2/results/TRACES.npz": "fd72e7efdc6426e429b8d60108e955dbb355c6b66401c01dd5d4ea4e26b1cb97",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_LOOKUP_T1_dir_m2/results/decision_0000.json": "4a40e8a7a684f5a086c002a271dbdf1a06b6c34b9067b623757e665cedf1f6c6",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_LOOKUP_T1_dir_m2/results/decision_0200.json": "b6dce221280a0378ebd61ddcff63c20a7f35b11122fea2782636081d4a87e57f",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_LOOKUP_T1_dir_m2/results/decision_0400.json": "dee888aa44d96d2212a388a60f9404d045d970c9d6c435e0f225ace728ad6a43",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_LOOKUP_T1_dir_m2/results/decision_0600.json": "d457b47891d039dc07a0342b8034fb8e485965c6c2ec7b74d3607573768f7064",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_LOOKUP_T1_dir_m2/results/decision_0800.json": "ad05eaccef3e57c6f88ebf3f35fc6bef883ff985e2e80a510350317990b2aa18",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_LOOKUP_T1_dir_m2/results/decision_1000.json": "fcd31513ccb9803c2d017490afdb14c4a792696b9fbe5dc86d19a9fca10a445e",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_LOOKUP_T1_dir_m2/results/decision_1200.json": "e295328226a8647301e25307fb007394f90d13398074f01c2edbfcbdd1d914ef",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_LOOKUP_T1_dir_m2/results/decision_1400.json": "e3db1982f9cde4beda94a57b8a604c2da4cee24f8bbea810497e1b4f2de37d3f",
+    "/home/shao/codex-home/JAX-WFCOYAW-MPC/audit/executions/re_strengthening_20260912/retrieved/completed_2334/ERROR_LOOKUP_T1_dir_m2/results/decision_1600.json": "5dfae1fed225d8a9554aebd990a6bf15e1ffc17c2bff61ab35d5db1bd9f02b5f"
+  },
+  "runs": 4,
+  "expected_runs": 24,
+  "missing": [
+    [
+      "T1",
+      "MPC",
+      "dir_p2"
+    ],
+    [
+      "T1",
+      "MPC",
+      "dir_p5"
+    ],
+    [
+      "T1",
+      "MPC",
+      "speed_m5"
+    ],
+    [
+      "T1",
+      "MPC",
+      "speed_p5"
+    ],
+    [
+      "T1",
+      "lookup",
+      "dir_p2"
+    ],
+    [
+      "T1",
+      "lookup",
+      "dir_p5"
+    ],
+    [
+      "T1",
+      "lookup",
+      "speed_m5"
+    ],
+    [
+      "T1",
+      "lookup",
+      "speed_p5"
+    ],
+    [
+      "T2",
+      "MPC",
+      "dir_m2"
+    ],
+    [
+      "T2",
+      "MPC",
+      "dir_m5"
+    ],
+    [
+      "T2",
+      "MPC",
+      "dir_p2"
+    ],
+    [
+      "T2",
+      "MPC",
+      "dir_p5"
+    ],
+    [
+      "T2",
+      "MPC",
+      "speed_m5"
+    ],
+    [
+      "T2",
+      "MPC",
+      "speed_p5"
+    ],
+    [
+      "T2",
+      "lookup",
+      "dir_m2"
+    ],
+    [
+      "T2",
+      "lookup",
+      "dir_m5"
+    ],
+    [
+      "T2",
+      "lookup",
+      "dir_p2"
+    ],
+    [
+      "T2",
+      "lookup",
+      "dir_p5"
+    ],
+    [
+      "T2",
+      "lookup",
+      "speed_m5"
+    ],
+    [
+      "T2",
+      "lookup",
+      "speed_p5"
+    ]
+  ],
+  "all_trace_checks_pass": true,
+  "root_count": 1,
+  "independent_confirmation": false,
+  "forecast": "prescribed biased ideal preview; full state; not field-calibrated errors",
+  "true_plant_inlet_modified": false,
+  "output_sha256": {
+    "bias_cumulative.csv": "ff6bf1c9b444f064d2267fda193f56a9cedd85c6f6906e59db4871a52cf89998",
+    "bias_paired.csv": "a26e9272eacdcba1b0f416dbf3674ff6c7f68310d1a0025e66b746b6bf34463b",
+    "bias_online.csv": "ceef4a3d67cd6f3944f5efb31c42d68c4415ca2813db645a9ead181e02dd1331",
+    "bias_cells.csv": "927302bf91bb0efff584b432feeb0d6dbb9263b4e0dbc76cc802993e7889ecf7"
+  }
+}

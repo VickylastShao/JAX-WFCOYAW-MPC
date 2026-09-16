@@ -1,0 +1,9 @@
+{
+  "generator": "paper/tools/forecast_qualification_tables.py",
+  "prepare_results_extension": true,
+  "sources": {
+    "audit/executions/re_revision_20260913/B0/results/OBSERVABILITY_TIMELINE.csv": "80d4129bff36c964df2383602e48162369b2f3cb70a2a471e2f138f0b5ef3b34",
+    "audit/executions/re_revision_20260913/B0/results/FORECAST_LEAD_ERRORS.csv": "2902282b6fd72a3ff523fc5755d43fa9325fe8d77310c9cf85818539929dd7e7",
+    "audit/executions/re_revision_20260913/B1/SUMMARY.json": "f2a26dd33a107043c97ae7e5e635e18abcecb6706327b67ba77e3715656b63ab"
+  }
+}

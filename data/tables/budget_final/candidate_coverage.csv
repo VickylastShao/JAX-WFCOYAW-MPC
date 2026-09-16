@@ -1,0 +1,13 @@
+segments,updates,joint_T1_T2_status
+1,1,unmeasured_or_incomplete
+1,2,unmeasured_or_incomplete
+1,4,eligible
+1,8,rejected
+2,1,unmeasured_or_incomplete
+2,2,unmeasured_or_incomplete
+2,4,eligible
+2,8,rejected
+3,1,unmeasured_or_incomplete
+3,2,unmeasured_or_incomplete
+3,4,eligible
+3,8,rejected
