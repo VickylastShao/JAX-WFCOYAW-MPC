@@ -9,7 +9,25 @@ The original controller optimizes nine executable yaw targets directly through
 a differentiable LES rollout with actuator limits, a 180 s command delay and
 explicit yaw-motion electricity. B1P*(F) is an external comparator only.
 
-## Evidence in this version
+## C1 representation replication and updated figures
+
+The [C1 evidence release](https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/tag/paper-evidence-2026-09-17-c1-v1)
+adds two previously unused control-outcome sources, with two scenarios and
+single-/two-segment yaw targets. Its 72 decisions meet the declared 180 s
+budget. Single-segment targets reduce travel in all four paired comparisons,
+while two segments deliver more net energy. Across the two source-level pools,
+the single-segment energy cost is 0.315–0.362% of two-segment total net energy,
+or 25.8–25.9% of its incremental benefit over no yaw.
+
+Download `Source_Data_C1_20260917.zip` for the frozen evidence and
+`Source_Data_C1_Editorial_20260917.zip` for figure source tables and a standalone
+redraw script. Verify both against `SHA256SUMS_C1_20260917.txt` in that release.
+The two sources remain distinct from the original six-root development pool;
+this does not constitute the planned 22-root confirmation. Complete simulated
+state and exact inlet preview remain the conditions of the C1 result. The
+original release and its assets remain available unchanged below.
+
+## Evidence in the original release
 
 - Original six-root exact-preview revalidation: 108 decisions within the 180 s
   budget; pooled net-energy gains of 1.1024% over no yaw and 0.8165% over the
