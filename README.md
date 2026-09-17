@@ -82,3 +82,15 @@ been assigned. Full precursor fields, restart states and original runtime
 images are external dependencies: their identifiers are recorded, but this
 release does not include all of those large inputs. Their public bulk delivery
 remains to be arranged; see [EXTERNAL_DATA.md](EXTERNAL_DATA.md).
+
+
+## Choice valuation and joint-inflow evidence — 18 September 2026
+
+[This separate release](https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/tag/paper-evidence-2026-09-18-transfer-v1) provides three verified compact
+archives: the fixed C1 energy–travel valuations (S31), all twelve joint-inflow
+control accounts and 72 MPC decisions (S32), and the reproducible Figure S11.
+The new conditions use two exposed source roots with exact preview and complete
+simulated state. Full results retain every positive and negative contrast.
+The portable checks reproduce saved accounts and figures without a GPU;
+large-field LES reruns still require the external inputs described above.
+Prior releases and their assets remain unchanged.
