@@ -94,3 +94,8 @@ simulated state. Full results retain every positive and negative contrast.
 The portable checks reproduce saved accounts and figures without a GPU;
 large-field LES reruns still require the external inputs described above.
 Prior releases and their assets remain unchanged.
+
+
+## Common travel preference — 18 September 2026
+
+[Supplementary Section S33 evidence](https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/tag/paper-evidence-2026-09-18-motion-v1) contains the fixed 0.25 kWh/degree preference study on exposed source SC-74121204. Scientific settlement: pilot_complete. Candidate advancement: False. The original 30 kW physical-energy score remains separate from the additional utility preference. The archive retains qualification, source identities and complete saved accounts where available; its Python/NumPy verifier runs without a GPU. Earlier releases remain unchanged.
