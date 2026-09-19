@@ -99,3 +99,8 @@ Prior releases and their assets remain unchanged.
 ## Common travel preference — 18 September 2026
 
 [Supplementary Section S33 evidence](https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/tag/paper-evidence-2026-09-18-motion-v1) contains the fixed 0.25 kWh/degree preference study on exposed source SC-74121204. Scientific settlement: pilot_complete. Candidate advancement: False. The original 30 kW physical-energy score remains separate from the additional utility preference. The archive retains qualification, source identities and complete saved accounts where available; its Python/NumPy verifier runs without a GPU. Earlier releases remain unchanged.
+
+
+## Causal inlet recycling — 19 September 2026
+
+[Supplementary Section S34 evidence](https://github.com/VickylastShao/JAX-WFCOYAW-MPC/releases/tag/paper-evidence-2026-09-19-rpi-v1) contains complete RPI-200 causal-inlet comparisons on exposed source SC-74121202. The fixed construction improved pooled net energy over past-mean MPC by 0.5037% of no-yaw energy, while gains against no yaw and external lookup remained -0.1542% and -0.0710%. The candidate stopped at its predeclared energy gate; transfer and phase extensions were not launched. All eighteen MPC calls were timely. The archive retains original and revised numerical qualifications, complete trajectories, source tables, licenses, and a CPU verifier tested in a fresh environment. Full LES inputs remain external hash-identified dependencies. Earlier releases are unchanged.
